@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_KN2Y0CNwEeeOsZrR_SxHmg" guid="_KN2Y0CNwEeeOsZrR_SxHmg">
+    <resourceDescriptors xmi:id="_KN2Y0SNwEeeOsZrR_SxHmg" id="-Pe7_4jQnLGXry8rHGz9Cvg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQDrEERQEeeip6KVLZLdJg" id="-mFCn0m7K0GEskEPZU86HkQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQM1AERQEeeip6KVLZLdJg" id="-cZIdRPtdFfYqQy1f7xjpwg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQM1AURQEeeip6KVLZLdJg" id="-w-BqiDf0qhX-d8CxxQejNw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQM1AkRQEeeip6KVLZLdJg" id="-oebWBXiqy1XXj4lAJIGDZw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQM1A0RQEeeip6KVLZLdJg" id="-A3uy5DkH6Pe90UPTWAIinA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQM1BERQEeeip6KVLZLdJg" id="-FSQ1yjUGwsqSyaIuPxPorA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQWmAERQEeeip6KVLZLdJg" id="-cdAVhKCrEUhKQVOTAonkEw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQWmAURQEeeip6KVLZLdJg" id="-6-iNGLcxE0s8lKMw5ftPpg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQWmAkRQEeeip6KVLZLdJg" id="-Zc82e6JzG6lk0Uivx7Jy-Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQgXAERQEeeip6KVLZLdJg" id="-W5zTlCuBdg3D15q2wmoUOw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQgXAURQEeeip6KVLZLdJg" id="-wiZjQPDenQTIkV5FGYBqiw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQgXAkRQEeeip6KVLZLdJg" id="-a_FWLxZbdAi2I6jkDPAZ6Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQgXA0RQEeeip6KVLZLdJg" id="-_-dfAtVwuFzDyG7vVRpWJQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQgXBERQEeeip6KVLZLdJg" id="-qvnu3atSibnVd6X9FHvNpQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQpg8ERQEeeip6KVLZLdJg" id="-B7XdBCA6RgGmruenlDB-Fg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQpg8URQEeeip6KVLZLdJg" id="-G1lWPioD5PZEHGhPn1-q_g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQpg8kRQEeeip6KVLZLdJg" id="-wb8QxhLg0q1GYnSDf_CqOw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQpg80RQEeeip6KVLZLdJg" id="-7FtS7zPd4o8HBZHdKMH9ng" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQzR8ERQEeeip6KVLZLdJg" id="-XNFojQRtawWVtDZA5OxkYw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQzR8URQEeeip6KVLZLdJg" id="-EROJMoGdHPWI_M11I_j3Kw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQzR8kRQEeeip6KVLZLdJg" id="-y8oGIwGX8FmUiphx0Bix-Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQ8b4ERQEeeip6KVLZLdJg" id="-8X-0D4_1_A-RIn6lHiy4_Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQ8b4URQEeeip6KVLZLdJg" id="-JOj0P-_hcRIYHw5izmg-KQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQ8b4kRQEeeip6KVLZLdJg" id="-7Do3Em84vTcvocJYlsZVaw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RQ8b40RQEeeip6KVLZLdJg" id="-o7euhij1bZWOky46s_S3jA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RRGM4ERQEeeip6KVLZLdJg" id="-o0yYzaDIDKgLfYeBZRK5dA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RRGM4URQEeeip6KVLZLdJg" id="-f9NZhqnuAh73JaMXAu5a3w" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RRGM4kRQEeeip6KVLZLdJg" id="-mO2D6fL6muDu-w-gNUiWWQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RRP94ERQEeeip6KVLZLdJg" id="-5qz9tHs5kfnSr4GsQW3hzg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RRP94URQEeeip6KVLZLdJg" id="-ER6_XAIgYWIae8IMah3h5Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RRP94kRQEeeip6KVLZLdJg" id="-9t0_vSbpO8BZRLLERCpnwg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RRP940RQEeeip6KVLZLdJg" id="-rDEa9-uH87Z9ZvxbxFZCKA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RRZH0ERQEeeip6KVLZLdJg" id="-TI4CblkyVUS37VUDpsR8uw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RRZH0URQEeeip6KVLZLdJg" id="-n01Id1npfJIUFslqdzq0bA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RRZH0kRQEeeip6KVLZLdJg" id="-Z-dlKUy4J-flBvAl04J6ZQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RRi40ERQEeeip6KVLZLdJg" id="-BjtAyEkXSmJdVEjggs6FpA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_RRi40URQEeeip6KVLZLdJg" id="-g7qBRxGlFCmSpaql1g_0nw" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_JZ2JACNwEeeOsZrR_SxHmg" name="dev_ent_overview_prac" guid="_JZ2JACNwEeeOsZrR_SxHmg">
+    <methodElementProperty xmi:id="_KNmhQSNwEeeOsZrR_SxHmg" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_QspcAERQEeeip6KVLZLdJg" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_JZ2JASNwEeeOsZrR_SxHmg" name="understand_executive_mgmt_perspective" guid="_JZ2JASNwEeeOsZrR_SxHmg">
+      <methodElementProperty xmi:id="_KNmhQiNwEeeOsZrR_SxHmg" name="pkg_loadCheck" value="true"/>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_JZ2JBCNwEeeOsZrR_SxHmg" name="understand_executive_mgmt_perspective" guid="_JZ2JBCNwEeeOsZrR_SxHmg" presentationName="Understand Executive Management's Perspective" superActivities="_JZ5MVCNwEeeOsZrR_SxHmg" breakdownElements="_JZ2wESNwEeeOsZrR_SxHmg _JZ2wFSNwEeeOsZrR_SxHmg _JZ2wECNwEeeOsZrR_SxHmg _JZ2JAyNwEeeOsZrR_SxHmg _JZ2wFCNwEeeOsZrR_SxHmg _JZ3XICNwEeeOsZrR_SxHmg _JZ2wFyNwEeeOsZrR_SxHmg _JZ2JAiNwEeeOsZrR_SxHmg _JZ2wEyNwEeeOsZrR_SxHmg _JZ2wFiNwEeeOsZrR_SxHmg _JZ2wEiNwEeeOsZrR_SxHmg"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ2wESNwEeeOsZrR_SxHmg" name="select_executives_to_interview" guid="_JZ2wESNwEeeOsZrR_SxHmg" presentationName="Select Executives to Interview" isPlanned="true" superActivities="_JZ2JBCNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ2wECNwEeeOsZrR_SxHmg" output="_JZ2wFyNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ2wFSNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_PuqO8UQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_fCRekPfBEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_JZ2wFSNwEeeOsZrR_SxHmg" name="business_design_consultant" guid="_JZ2wFSNwEeeOsZrR_SxHmg" presentationName="Business Design Consultant" briefDescription="This role is responsible for understanding and assessing a client’s business operations, identifying issues and opportunities and recommending appropriate solutions." superActivities="_JZ2JBCNwEeeOsZrR_SxHmg" modifies="_JZ2wFCNwEeeOsZrR_SxHmg _JZ2wFyNwEeeOsZrR_SxHmg _JZ2wEiNwEeeOsZrR_SxHmg _JZ2wFiNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6ICNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PuqO80Q-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-mFCn0m7K0GEskEPZU86HkQ" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-mFCn0m7K0GEskEPZU86HkQ"/>
+        <supportingMaterials href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#_sVjsgJ6_Ed27bY502lI01A"/>
+        <Role href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#_m35rAGsKEdurP9SfqLNBKA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_JZ2wECNwEeeOsZrR_SxHmg" name="strategy_consultant" guid="_JZ2wECNwEeeOsZrR_SxHmg" presentationName="Strategy Consultant" briefDescription="This role assists clients to determine their business issues and recommend solutions to drive business value." superActivities="_JZ2JBCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6ISNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PuqO90Q-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-cZIdRPtdFfYqQy1f7xjpwg" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-cZIdRPtdFfYqQy1f7xjpwg"/>
+        <Role href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#mweb4A557CAE63011DCA852567D800504119"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ2JAyNwEeeOsZrR_SxHmg" name="discuss_business_functional_strategies" guid="_JZ2JAyNwEeeOsZrR_SxHmg" presentationName="Discuss Business and Functional Strategies" isPlanned="true" superActivities="_JZ2JBCNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ2wECNwEeeOsZrR_SxHmg" output="_JZ2wFCNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ2wFSNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_PuqO-UQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_Zx0cIPfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ2wFCNwEeeOsZrR_SxHmg" name="business_direction" guid="_JZ2wFCNwEeeOsZrR_SxHmg" presentationName="Business Direction" briefDescription="The Business Direction work product is typically the starting point for any strategic, business-driven project. " superActivities="_JZ2JBCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6IiNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Puz_8EQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-w-BqiDf0qhX-d8CxxQejNw" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-w-BqiDf0qhX-d8CxxQejNw"/>
+        <checklists href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_RIvIoFF0EdyRP86Y71CgoA"/>
+        <examples href="uma://_udPZUI7REdym4qSbJ6594A#_9Au_8FFwEdyRP86Y71CgoA"/>
+        <examples href="uma://_udPZUI7REdym4qSbJ6594A#_JQcMsDJ-Ed261rFYA7Y8NQ"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_6bKgoPZ0Ed2jl7_Y2Pj-QQ"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_IEv1EFFzEdyRP86Y71CgoA"/>
+        <supportingMaterials href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_NTC0AFF1EdyRP86Y71CgoA"/>
+        <supportingMaterials href="uma://_guHKMLUNEdyoG8nELYGlwg#_mR2lQDx1Ed2CvtAotE3opg"/>
+        <templates href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_iDVPwPaYEd246_4yGkfaSA"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb037452590497685100"/>
+        <WorkProduct href="uma://_udPZUI7REdym4qSbJ6594A#mweb5E09C6D8970ACF5D85256BE9006ADCC1"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ3XICNwEeeOsZrR_SxHmg" name="det_mgmt_view_enterprise_data_collection" guid="_JZ3XICNwEeeOsZrR_SxHmg" presentationName="Determine Management View of the Enterprise Data Collection Template" isPlanned="true" superActivities="_JZ2JBCNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ2wECNwEeeOsZrR_SxHmg" output="_JZ2wFyNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ2wFSNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_Puz_8UQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_cMiLEPfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ2wFyNwEeeOsZrR_SxHmg" name="interview_survey_specs" guid="_JZ2wFyNwEeeOsZrR_SxHmg" presentationName="Interview or Survey Specifications and Materials" briefDescription="This artifacts provides a description of a interview or survey instrument and its components, as well as the associated delivery and acceptance conditions." superActivities="_JZ2JBCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6IyNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PuqO8kQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-oebWBXiqy1XXj4lAJIGDZw" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-oebWBXiqy1XXj4lAJIGDZw"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_OsJ1wGD8EdyqFs5MjaL5DA"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_dy-OcGD9EdyqFs5MjaL5DA"/>
+        <supportingMaterials href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_EYH50GD_EdyqFs5MjaL5DA"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb370786054861111929"/>
+        <WorkProduct href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb33BE3D5DCA6100128525696E000E2EBF"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ2JAiNwEeeOsZrR_SxHmg" name="det_mgmt_perception_strat_importance_tech" guid="_JZ2JAiNwEeeOsZrR_SxHmg" presentationName="Determine Management Perception of Strategic Importance of Technology" isPlanned="true" superActivities="_JZ2JBCNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ2wECNwEeeOsZrR_SxHmg" output="_JZ2wEiNwEeeOsZrR_SxHmg _JZ2wFCNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ2wFSNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_Puz_8kQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-A3uy5DkH6Pe90UPTWAIinA" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-A3uy5DkH6Pe90UPTWAIinA"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_eNwb8PfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ2wEyNwEeeOsZrR_SxHmg" name="document_mgmt_objectives_priorities" guid="_JZ2wEyNwEeeOsZrR_SxHmg" presentationName="Document Management's Objectives and Priorities for this Project" isPlanned="true" superActivities="_JZ2JBCNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ2wECNwEeeOsZrR_SxHmg" output="_JZ2wFiNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ2wFSNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_Puz_9EQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_fyUmAPfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ2wFiNwEeeOsZrR_SxHmg" name="crit_issues_opps_recomend" guid="_JZ2wFiNwEeeOsZrR_SxHmg" presentationName="Critical Issues Opportunities and Recommendations" briefDescription="The Critical Issues, Opportunities and Recommendations work product aggregates the results of the ongoing assessment and analysis activities associated with a variety of types of consulting projects." superActivities="_JZ2JBCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6JCNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Puz_9UQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-FSQ1yjUGwsqSyaIuPxPorA" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-FSQ1yjUGwsqSyaIuPxPorA"/>
+        <examples href="uma://_udPZUI7REdym4qSbJ6594A#_TuqW4FSGEdy02dekYrBvaA"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_y8yxYFSHEdy02dekYrBvaA"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mwebF04888306DF9E3EF8025674B00424917"/>
+        <supportingMaterials href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_uzw0kFSJEdy02dekYrBvaA"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb037635748715277701"/>
+        <WorkProduct href="uma://_udPZUI7REdym4qSbJ6594A#mweb89E198329B6321878525688200605CB3"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ2wEiNwEeeOsZrR_SxHmg" name="strategic_technology_direction" guid="_JZ2wEiNwEeeOsZrR_SxHmg" presentationName="Strategic Technology Direction" briefDescription="This artifact is a high-level description of the strategic vision, goals and objectives an enterprise intends to achieve with its Information Technology capabilities and the technology transition initiatives required to implement the business vision, goals and objectives." superActivities="_JZ2JBCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6JSNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Puz_80Q-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-cdAVhKCrEUhKQVOTAonkEw" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-cdAVhKCrEUhKQVOTAonkEw"/>
+        <WorkProduct href="uma://_80DJALIZEd-N5bnHM2fzaQ#_KrnG0BLxEd61qO48gc_Mjg"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_JZ3XISNwEeeOsZrR_SxHmg" name="Determine Existing Corporate Strategy" guid="_JZ3XISNwEeeOsZrR_SxHmg">
+      <methodElementProperty xmi:id="_KNmhQyNwEeeOsZrR_SxHmg" name="pkg_loadCheck" value="true"/>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_JZ3XJyNwEeeOsZrR_SxHmg" name="Determine Existing Corporate Strategy" guid="_JZ3XJyNwEeeOsZrR_SxHmg" presentationName="Determine Existing Corporate Strategy" superActivities="_JZ5MVCNwEeeOsZrR_SxHmg" breakdownElements="_JZ3XJiNwEeeOsZrR_SxHmg _JZ3-NCNwEeeOsZrR_SxHmg _JZ3XJSNwEeeOsZrR_SxHmg _JZ3-MyNwEeeOsZrR_SxHmg _JZ3XKCNwEeeOsZrR_SxHmg _JZ3XIyNwEeeOsZrR_SxHmg _JZ3-MiNwEeeOsZrR_SxHmg _JZ3-MSNwEeeOsZrR_SxHmg _JZ3XJCNwEeeOsZrR_SxHmg _JZ3XIiNwEeeOsZrR_SxHmg _JZ3-MCNwEeeOsZrR_SxHmg"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ3XJiNwEeeOsZrR_SxHmg" name="identify_vision_mission_goals" guid="_JZ3XJiNwEeeOsZrR_SxHmg" presentationName="Identify Vision, Mission, And Goals" isPlanned="true" superActivities="_JZ3XJyNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ3XJSNwEeeOsZrR_SxHmg" output="_JZ3-MyNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ3-NCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_Pu9w8EQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_kEm6kPfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_JZ3-NCNwEeeOsZrR_SxHmg" name="business_design_consultant" guid="_JZ3-NCNwEeeOsZrR_SxHmg" presentationName="Business Design Consultant" briefDescription="This role is responsible for understanding and assessing a client’s business operations, identifying issues and opportunities and recommending appropriate solutions." superActivities="_JZ3XJyNwEeeOsZrR_SxHmg" modifies="_JZ3XIyNwEeeOsZrR_SxHmg _JZ3-MyNwEeeOsZrR_SxHmg _JZ3-MCNwEeeOsZrR_SxHmg _JZ3XIiNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6JiNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Pu9w90Q-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-6-iNGLcxE0s8lKMw5ftPpg" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-6-iNGLcxE0s8lKMw5ftPpg"/>
+        <supportingMaterials href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#_sVjsgJ6_Ed27bY502lI01A"/>
+        <Role href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#_m35rAGsKEdurP9SfqLNBKA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_JZ3XJSNwEeeOsZrR_SxHmg" name="strategy_consultant" guid="_JZ3XJSNwEeeOsZrR_SxHmg" presentationName="Strategy Consultant" briefDescription="This role assists clients to determine their business issues and recommend solutions to drive business value." superActivities="_JZ3XJyNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6JyNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Pu9w9EQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-Zc82e6JzG6lk0Uivx7Jy-Q" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-Zc82e6JzG6lk0Uivx7Jy-Q"/>
+        <Role href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#mweb4A557CAE63011DCA852567D800504119"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ3-MyNwEeeOsZrR_SxHmg" name="business_direction" guid="_JZ3-MyNwEeeOsZrR_SxHmg" presentationName="Business Direction" briefDescription="The Business Direction work product is typically the starting point for any strategic, business-driven project. " superActivities="_JZ3XJyNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6KCNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Pu9w9kQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-W5zTlCuBdg3D15q2wmoUOw" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-W5zTlCuBdg3D15q2wmoUOw"/>
+        <checklists href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_RIvIoFF0EdyRP86Y71CgoA"/>
+        <examples href="uma://_udPZUI7REdym4qSbJ6594A#_9Au_8FFwEdyRP86Y71CgoA"/>
+        <examples href="uma://_udPZUI7REdym4qSbJ6594A#_JQcMsDJ-Ed261rFYA7Y8NQ"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_6bKgoPZ0Ed2jl7_Y2Pj-QQ"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_IEv1EFFzEdyRP86Y71CgoA"/>
+        <supportingMaterials href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_NTC0AFF1EdyRP86Y71CgoA"/>
+        <supportingMaterials href="uma://_guHKMLUNEdyoG8nELYGlwg#_mR2lQDx1Ed2CvtAotE3opg"/>
+        <templates href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_iDVPwPaYEd246_4yGkfaSA"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb037452590497685100"/>
+        <WorkProduct href="uma://_udPZUI7REdym4qSbJ6594A#mweb5E09C6D8970ACF5D85256BE9006ADCC1"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ3XKCNwEeeOsZrR_SxHmg" name="identify_existing_value_prop_client" guid="_JZ3XKCNwEeeOsZrR_SxHmg" presentationName="Identify Existing Value Proposition (of the Client)" isPlanned="true" superActivities="_JZ3XJyNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ3XJSNwEeeOsZrR_SxHmg" output="_JZ3XIyNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ3-NCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_PwASwEQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_s29PEPfEEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ3XIyNwEeeOsZrR_SxHmg" name="market_prod_service_strat" guid="_JZ3XIyNwEeeOsZrR_SxHmg" presentationName="Marketing Product/Service Strategy" briefDescription="The output of the Marketing Product/Service Strategy Work Product Description is a plan that helps management allocate resources to maximize probabilities that the company will create, market and distribute products and services that profitably meet the needs of buyers." superActivities="_JZ3XJyNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6KSNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PwASwUQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-wiZjQPDenQTIkV5FGYBqiw" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-wiZjQPDenQTIkV5FGYBqiw"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_Ai8SIKQVEdyRleJhp9IzvA"/>
+        <supportingMaterials href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_i-PBoKQVEdyRleJhp9IzvA"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_DDbR4KQVEdyRleJhp9IzvA"/>
+        <WorkProduct href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb874AB3125D5FDE8285256BEA0068C268"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ3-MiNwEeeOsZrR_SxHmg" name="identify_business_objectives" guid="_JZ3-MiNwEeeOsZrR_SxHmg" presentationName="Identify Business Objectives" isPlanned="true" superActivities="_JZ3XJyNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ3XJSNwEeeOsZrR_SxHmg" output="_JZ3-MyNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ3-NCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_PwASwkQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_lTBOcPfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ3-MSNwEeeOsZrR_SxHmg" name="review_existing_strategic_bus_plans" guid="_JZ3-MSNwEeeOsZrR_SxHmg" presentationName="Review Existing Strategic and Business Plans" isPlanned="true" superActivities="_JZ3XJyNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ3XJSNwEeeOsZrR_SxHmg" output="_JZ3-MyNwEeeOsZrR_SxHmg _JZ3-MCNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ3-NCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_PwASw0Q-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_ohNowPfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ3XJCNwEeeOsZrR_SxHmg" name="determine_industry_market_participation" guid="_JZ3XJCNwEeeOsZrR_SxHmg" presentationName="Determine Industry and Market Participation" isPlanned="true" superActivities="_JZ3XJyNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ3XJSNwEeeOsZrR_SxHmg" output="_JZ3XIiNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ3-NCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_PwASxUQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_pez5cPfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ3XIiNwEeeOsZrR_SxHmg" name="strategic_market_position" guid="_JZ3XIiNwEeeOsZrR_SxHmg" presentationName="Strategic Market Position" briefDescription="The Strategic Market Position work product describes and illustrates a company's competitive space(s) in its industry. " superActivities="_JZ3XJyNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6KiNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PwASxkQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-a_FWLxZbdAi2I6jkDPAZ6Q" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-a_FWLxZbdAi2I6jkDPAZ6Q"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_EpePEGEsEdyAHMHpB6wXTA"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_lJFVAGEsEdyAHMHpB6wXTA"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb370790613541667352"/>
+        <WorkProduct href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb7F50A5D0E4B2F69785256885005C5D44"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ3-MCNwEeeOsZrR_SxHmg" name="strategic_technology_direction" guid="_JZ3-MCNwEeeOsZrR_SxHmg" presentationName="Strategic Technology Direction" briefDescription="This artifact is a high-level description of the strategic vision, goals and objectives an enterprise intends to achieve with its Information Technology capabilities and the technology transition initiatives required to implement the business vision, goals and objectives." superActivities="_JZ3XJyNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6KyNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PwASxEQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-_-dfAtVwuFzDyG7vVRpWJQ" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-_-dfAtVwuFzDyG7vVRpWJQ"/>
+        <WorkProduct href="uma://_80DJALIZEd-N5bnHM2fzaQ#_KrnG0BLxEd61qO48gc_Mjg"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_JZ7BhiNwEeeOsZrR_SxHmg" name="determine_organizational_structure" guid="_JZ7BhiNwEeeOsZrR_SxHmg">
+      <methodElementProperty xmi:id="_KNmhRCNwEeeOsZrR_SxHmg" name="pkg_loadCheck" value="true"/>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_JZ7okCNwEeeOsZrR_SxHmg" name="determine_organizational_structure" guid="_JZ7okCNwEeeOsZrR_SxHmg" presentationName="Determine Organizational Structure" superActivities="_JZ5MVCNwEeeOsZrR_SxHmg" breakdownElements="_JZ7olCNwEeeOsZrR_SxHmg _JZ7olyNwEeeOsZrR_SxHmg _JZ7olSNwEeeOsZrR_SxHmg _JZ7BiCNwEeeOsZrR_SxHmg _JZ7BhyNwEeeOsZrR_SxHmg _JZ7okSNwEeeOsZrR_SxHmg _JZ7okiNwEeeOsZrR_SxHmg _JZ7okyNwEeeOsZrR_SxHmg _JZ7oliNwEeeOsZrR_SxHmg"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ7olCNwEeeOsZrR_SxHmg" name="identify_major_business_locations" guid="_JZ7olCNwEeeOsZrR_SxHmg" presentationName="Identify Major Business Locations" isPlanned="true" superActivities="_JZ7okCNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ7olSNwEeeOsZrR_SxHmg" output="_JZ7BiCNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ7olyNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_PwJcsEQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_tF7xIPfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_JZ7olyNwEeeOsZrR_SxHmg" name="business_design_consultant" guid="_JZ7olyNwEeeOsZrR_SxHmg" presentationName="Business Design Consultant" briefDescription="This role is responsible for understanding and assessing a client’s business operations, identifying issues and opportunities and recommending appropriate solutions." superActivities="_JZ7okCNwEeeOsZrR_SxHmg" modifies="_JZ7okSNwEeeOsZrR_SxHmg _JZ7oliNwEeeOsZrR_SxHmg _JZ7BiCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6LCNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PwJcskQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-qvnu3atSibnVd6X9FHvNpQ" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-qvnu3atSibnVd6X9FHvNpQ"/>
+        <supportingMaterials href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#_sVjsgJ6_Ed27bY502lI01A"/>
+        <Role href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#_m35rAGsKEdurP9SfqLNBKA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_JZ7olSNwEeeOsZrR_SxHmg" name="strategy_consultant" guid="_JZ7olSNwEeeOsZrR_SxHmg" presentationName="Strategy Consultant" briefDescription="This role assists clients to determine their business issues and recommend solutions to drive business value." superActivities="_JZ7okCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6LSNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PwJctkQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-B7XdBCA6RgGmruenlDB-Fg" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-B7XdBCA6RgGmruenlDB-Fg"/>
+        <Role href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#mweb4A557CAE63011DCA852567D800504119"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ7BiCNwEeeOsZrR_SxHmg" name="business_roles_locations" guid="_JZ7BiCNwEeeOsZrR_SxHmg" presentationName="Business Roles and Locations" briefDescription="The Business Roles and Locations work product documents the roles and locations that are pertinent to the enterprise's business." superActivities="_JZ7okCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6LiNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PwJcsUQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-G1lWPioD5PZEHGhPn1-q_g" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-G1lWPioD5PZEHGhPn1-q_g"/>
+        <examples href="uma://_udPZUI7REdym4qSbJ6594A#_XuRS0CoPEdyDHtaW0pBHrg"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_eusDwCoeEdyDHtaW0pBHrg"/>
+        <supportingMaterials href="uma://_udPZUI7REdym4qSbJ6594A#_yQmAUCoiEdyDHtaW0pBHrg"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb370790370601852629"/>
+        <WorkProduct href="uma://_udPZUI7REdym4qSbJ6594A#mwebB2EF94B18722617A85256882005AB3B4"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ7BhyNwEeeOsZrR_SxHmg" name="identify_bus_units_interrelationships" guid="_JZ7BhyNwEeeOsZrR_SxHmg" presentationName="Identify Business Units and Interrelationships" isPlanned="true" superActivities="_JZ7okCNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ7olSNwEeeOsZrR_SxHmg" output="_JZ7okSNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ7olyNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_PwJcuEQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_uX4hMPfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ7okSNwEeeOsZrR_SxHmg" name="current_org_description" guid="_JZ7okSNwEeeOsZrR_SxHmg" presentationName="Current Organization Description" briefDescription="The Current Organization Description is an inventory of organizational information." superActivities="_JZ7okCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6LyNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PwJcuUQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-wb8QxhLg0q1GYnSDf_CqOw" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-wb8QxhLg0q1GYnSDf_CqOw"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_vWAWoDBFEdyNlPr0465ovQ"/>
+        <supportingMaterials href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_WnfekEbQEd2vgKxsA9-QIw"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb037635749606481401"/>
+        <WorkProduct href="uma://_udPZUI7REdym4qSbJ6594A#mwebED33B506309AD0CB852568820060BFF4"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ7okiNwEeeOsZrR_SxHmg" name="review_organizational_chart" guid="_JZ7okiNwEeeOsZrR_SxHmg" presentationName="Review Organizational Chart" isPlanned="true" superActivities="_JZ7okCNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ7olSNwEeeOsZrR_SxHmg" output="_JZ7okSNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ7olyNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_PwTNsEQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_w0yogPfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ7okyNwEeeOsZrR_SxHmg" name="review_culture" guid="_JZ7okyNwEeeOsZrR_SxHmg" presentationName="Review Culture" isPlanned="true" superActivities="_JZ7okCNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ7olSNwEeeOsZrR_SxHmg" output="_JZ7oliNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ7olyNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_PwTNsUQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_x_L_EPfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ7oliNwEeeOsZrR_SxHmg" name="culture_assessment" guid="_JZ7oliNwEeeOsZrR_SxHmg" presentationName="Culture Assessment" briefDescription="This artifact is used to document a company's values, behaviors and related reward systems. It characterizes the environment in which the company operates, how a solution will fit in that environment, and what kinds of culture changes might need to be made in order for it to be successful." superActivities="_JZ7okCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6MCNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PwTNskQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <WorkProduct href="uma://_eiO4cOLMEd21SrwPIauviQ#_--ZxEAjlEd6fndRvBaEYvQ"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_JZ3-NSNwEeeOsZrR_SxHmg" name="determine_industry_structure" guid="_JZ3-NSNwEeeOsZrR_SxHmg">
+      <methodElementProperty xmi:id="_KNmhRSNwEeeOsZrR_SxHmg" name="pkg_loadCheck" value="true"/>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_JZ4lQCNwEeeOsZrR_SxHmg" name="determine_industry_structure" guid="_JZ4lQCNwEeeOsZrR_SxHmg" presentationName="Determine Industry Structure" superActivities="_JZ5MVCNwEeeOsZrR_SxHmg" breakdownElements="_JZ4lQyNwEeeOsZrR_SxHmg _JZ4lRCNwEeeOsZrR_SxHmg _JZ5MUiNwEeeOsZrR_SxHmg _JZ3-NyNwEeeOsZrR_SxHmg _JZ4lQiNwEeeOsZrR_SxHmg _JZ5MUSNwEeeOsZrR_SxHmg _JZ4lRyNwEeeOsZrR_SxHmg _JZ4lRiNwEeeOsZrR_SxHmg _JZ4lRSNwEeeOsZrR_SxHmg _JZ3-NiNwEeeOsZrR_SxHmg _JZ5MUyNwEeeOsZrR_SxHmg _JZ5MUCNwEeeOsZrR_SxHmg _JZ4lQSNwEeeOsZrR_SxHmg"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ4lQyNwEeeOsZrR_SxHmg" name="identify_competitors" guid="_JZ4lQyNwEeeOsZrR_SxHmg" presentationName="Identify Competitors" isPlanned="true" superActivities="_JZ4lQCNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ5MUiNwEeeOsZrR_SxHmg" output="_JZ3-NyNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ4lRCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_PwTNs0Q-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_0OERcPfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_JZ4lRCNwEeeOsZrR_SxHmg" name="business_design_consultant" guid="_JZ4lRCNwEeeOsZrR_SxHmg" presentationName="Business Design Consultant" briefDescription="This role is responsible for understanding and assessing a client’s business operations, identifying issues and opportunities and recommending appropriate solutions." superActivities="_JZ4lQCNwEeeOsZrR_SxHmg" modifies="_JZ3-NyNwEeeOsZrR_SxHmg _JZ4lRyNwEeeOsZrR_SxHmg _JZ4lQSNwEeeOsZrR_SxHmg _JZ3-NiNwEeeOsZrR_SxHmg _JZ5MUCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6MSNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PwTNtUQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-7FtS7zPd4o8HBZHdKMH9ng" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-7FtS7zPd4o8HBZHdKMH9ng"/>
+        <supportingMaterials href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#_sVjsgJ6_Ed27bY502lI01A"/>
+        <Role href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#_m35rAGsKEdurP9SfqLNBKA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_JZ5MUiNwEeeOsZrR_SxHmg" name="strategy_consultant" guid="_JZ5MUiNwEeeOsZrR_SxHmg" presentationName="Strategy Consultant" briefDescription="This role assists clients to determine their business issues and recommend solutions to drive business value." superActivities="_JZ4lQCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6MiNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PwTNuUQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-XNFojQRtawWVtDZA5OxkYw" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-XNFojQRtawWVtDZA5OxkYw"/>
+        <Role href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#mweb4A557CAE63011DCA852567D800504119"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ3-NyNwEeeOsZrR_SxHmg" name="competitor_analysis" guid="_JZ3-NyNwEeeOsZrR_SxHmg" presentationName="Competitor Analysis" briefDescription="Competitor Analysis involves the assessment of emerging or existing competitors and their potential impact on an enterprise’s strategy. " superActivities="_JZ4lQCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6MyNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PwTNtEQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-EROJMoGdHPWI_M11I_j3Kw" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-EROJMoGdHPWI_M11I_j3Kw"/>
+        <checklists href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_M_GbUC2SEd2aiKxIWtfUxA"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_TuQz0C4HEd2f1IAoVExlPQ"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_RU_WsC4EEd2f1IAoVExlPQ"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_IJ0SgC4CEd2f1IAoVExlPQ"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_Rgll4C4IEd2f1IAoVExlPQ"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_ChhbAC4HEd2f1IAoVExlPQ"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_1qmaEC2REd2aiKxIWtfUxA"/>
+        <supportingMaterials href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_6QC7wC4AEd2f1IAoVExlPQ"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb037452602708333300"/>
+        <WorkProduct href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb9055B8710002FB2685256BF4004B4595"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ4lQiNwEeeOsZrR_SxHmg" name="identify_competitive_strengths" guid="_JZ4lQiNwEeeOsZrR_SxHmg" presentationName="Identify Competitive Strengths" isPlanned="true" superActivities="_JZ4lQCNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ5MUiNwEeeOsZrR_SxHmg" output="_JZ3-NyNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ4lRCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_PwTNu0Q-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_2NLpgPfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ5MUSNwEeeOsZrR_SxHmg" name="identify_suppliers" guid="_JZ5MUSNwEeeOsZrR_SxHmg" presentationName="Identify Suppliers" isPlanned="true" superActivities="_JZ4lQCNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ5MUiNwEeeOsZrR_SxHmg" output="_JZ4lRyNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ4lRCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_Pwc-sEQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_7cmUsPfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ4lRyNwEeeOsZrR_SxHmg" name="supplier_analysis" guid="_JZ4lRyNwEeeOsZrR_SxHmg" presentationName="Supplier Analysis" briefDescription="Identify all the suppliers of a company, indicating all the suppliers for different raw materials, parts, components, services, and so on." superActivities="_JZ4lQCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNl6NCNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Pwc-sUQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-y8oGIwGX8FmUiphx0Bix-Q" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-y8oGIwGX8FmUiphx0Bix-Q"/>
+        <WorkProduct href="uma://_eiO4cOLMEd21SrwPIauviQ#_t8_zoAjnEd6fndRvBaEYvQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ4lRiNwEeeOsZrR_SxHmg" name="identify_customers" guid="_JZ4lRiNwEeeOsZrR_SxHmg" presentationName="Identify Customers" isPlanned="true" superActivities="_JZ4lQCNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ5MUiNwEeeOsZrR_SxHmg" output="_JZ4lQSNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ4lRCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_Pwc-skQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#__o9ncPfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ4lRSNwEeeOsZrR_SxHmg" name="identify_substitute_products_services" guid="_JZ4lRSNwEeeOsZrR_SxHmg" presentationName="Identify Substitute Products and Services" isPlanned="true" superActivities="_JZ4lQCNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ5MUiNwEeeOsZrR_SxHmg" output="_JZ3-NiNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ4lRCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_Pwc-tEQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_DFYrAPfDEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ3-NiNwEeeOsZrR_SxHmg" name="market_prod_service_strat" guid="_JZ3-NiNwEeeOsZrR_SxHmg" presentationName="Marketing Product/Service Strategy" briefDescription="The output of the Marketing Product/Service Strategy Work Product Description is a plan that helps management allocate resources to maximize probabilities that the company will create, market and distribute products and services that profitably meet the needs of buyers." superActivities="_JZ4lQCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNmhMCNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Pwc-tUQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-8X-0D4_1_A-RIn6lHiy4_Q" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-8X-0D4_1_A-RIn6lHiy4_Q"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_Ai8SIKQVEdyRleJhp9IzvA"/>
+        <supportingMaterials href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_i-PBoKQVEdyRleJhp9IzvA"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_DDbR4KQVEdyRleJhp9IzvA"/>
+        <WorkProduct href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb874AB3125D5FDE8285256BEA0068C268"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ5MUyNwEeeOsZrR_SxHmg" name="det_industry_value_chain_nets_ecosystems" guid="_JZ5MUyNwEeeOsZrR_SxHmg" presentationName="Determine Industry Value Chain, Value Nets, and Ecosystems" isPlanned="true" superActivities="_JZ4lQCNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ5MUiNwEeeOsZrR_SxHmg" output="_JZ5MUCNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ4lRCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_Pwc-tkQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_EcHNYPfDEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ5MUCNwEeeOsZrR_SxHmg" name="industry_env_analysis" guid="_JZ5MUCNwEeeOsZrR_SxHmg" presentationName="Industry Environment Analysis" briefDescription="The Industry Environment Analysis work product describes an understanding of the industry environment in which the business entity is operating, and identifying the likely impacts on the future 'to-be' business strategy." superActivities="_JZ4lQCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNmhMSNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Pwc-t0Q-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-JOj0P-_hcRIYHw5izmg-KQ" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-JOj0P-_hcRIYHw5izmg-KQ"/>
+        <checklists href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_1tCbMFq4EdyF--678j6dPw"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_ih6cYFqzEdyF--678j6dPw"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_iKlB0FqwEdyF--678j6dPw"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_qt7GcFqxEdyF--678j6dPw"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_YzoygFquEdyF--678j6dPw"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_-oNVgFqvEdyF--678j6dPw"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_6_u2IFqzEdyF--678j6dPw"/>
+        <supportingMaterials href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_NJKR8Fq6EdyF--678j6dPw"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb037452604490740700"/>
+        <WorkProduct href="uma://_udPZUI7REdym4qSbJ6594A#mweb13D6549F1DE6709385256BF4005F786D"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ4lQSNwEeeOsZrR_SxHmg" name="customer_analysis" guid="_JZ4lQSNwEeeOsZrR_SxHmg" presentationName="Customer Analysis" briefDescription="This artifact is used to document the characteristics of the customers that a company has or is targeting." isPlanned="false" superActivities="_JZ4lQCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNmhMiNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Pwc-s0Q-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-7Do3Em84vTcvocJYlsZVaw" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-7Do3Em84vTcvocJYlsZVaw"/>
+        <WorkProduct href="uma://_eiO4cOLMEd21SrwPIauviQ#_jzdNQAjmEd6fndRvBaEYvQ"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_JZ6acSNwEeeOsZrR_SxHmg" name="assess_customer_demand" guid="_JZ6acSNwEeeOsZrR_SxHmg">
+      <methodElementProperty xmi:id="_KNmhRiNwEeeOsZrR_SxHmg" name="pkg_loadCheck" value="true"/>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_JZ7BhSNwEeeOsZrR_SxHmg" name="assess_customer_demand" guid="_JZ7BhSNwEeeOsZrR_SxHmg" presentationName="Assess Customer Demand" superActivities="_JZ5MVCNwEeeOsZrR_SxHmg" breakdownElements="_JZ6aeCNwEeeOsZrR_SxHmg _JZ6aciNwEeeOsZrR_SxHmg _JZ6adiNwEeeOsZrR_SxHmg _JZ6adSNwEeeOsZrR_SxHmg _JZ7BgSNwEeeOsZrR_SxHmg _JZ6adCNwEeeOsZrR_SxHmg _JZ6adyNwEeeOsZrR_SxHmg _JZ7BgyNwEeeOsZrR_SxHmg _JZ7BgCNwEeeOsZrR_SxHmg _JZ7BgiNwEeeOsZrR_SxHmg _JZ6acyNwEeeOsZrR_SxHmg _JZ7BhCNwEeeOsZrR_SxHmg"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ6aeCNwEeeOsZrR_SxHmg" name="analyze_customers_markets" guid="_JZ6aeCNwEeeOsZrR_SxHmg" presentationName="Analyze Customers and Markets" isPlanned="true" superActivities="_JZ7BhSNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ6adiNwEeeOsZrR_SxHmg" output="_JZ6adSNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ6aciNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_PwmIoEQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_Gf5qEPfDEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_JZ6aciNwEeeOsZrR_SxHmg" name="business_design_consultant" guid="_JZ6aciNwEeeOsZrR_SxHmg" presentationName="Business Design Consultant" briefDescription="This role is responsible for understanding and assessing a client’s business operations, identifying issues and opportunities and recommending appropriate solutions." superActivities="_JZ7BhSNwEeeOsZrR_SxHmg" modifies="_JZ6adCNwEeeOsZrR_SxHmg _JZ7BgyNwEeeOsZrR_SxHmg _JZ7BgiNwEeeOsZrR_SxHmg _JZ7BhCNwEeeOsZrR_SxHmg _JZ6adSNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNmhMyNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PwmIoUQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-o7euhij1bZWOky46s_S3jA" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-o7euhij1bZWOky46s_S3jA"/>
+        <supportingMaterials href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#_sVjsgJ6_Ed27bY502lI01A"/>
+        <Role href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#_m35rAGsKEdurP9SfqLNBKA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_JZ6adiNwEeeOsZrR_SxHmg" name="strategy_consultant" guid="_JZ6adiNwEeeOsZrR_SxHmg" presentationName="Strategy Consultant" briefDescription="This role assists clients to determine their business issues and recommend solutions to drive business value." superActivities="_JZ7BhSNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNmhNCNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PwmIpkQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-o0yYzaDIDKgLfYeBZRK5dA" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-o0yYzaDIDKgLfYeBZRK5dA"/>
+        <Role href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#mweb4A557CAE63011DCA852567D800504119"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ6adSNwEeeOsZrR_SxHmg" name="strategic_market_position" guid="_JZ6adSNwEeeOsZrR_SxHmg" presentationName="Strategic Market Position" briefDescription="The Strategic Market Position work product describes and illustrates a company's competitive space(s) in its industry. " superActivities="_JZ7BhSNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNmhNSNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PwmIokQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-f9NZhqnuAh73JaMXAu5a3w" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-f9NZhqnuAh73JaMXAu5a3w"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_EpePEGEsEdyAHMHpB6wXTA"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_lJFVAGEsEdyAHMHpB6wXTA"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb370790613541667352"/>
+        <WorkProduct href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb7F50A5D0E4B2F69785256885005C5D44"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ7BgSNwEeeOsZrR_SxHmg" name="analyze_products_services" guid="_JZ7BgSNwEeeOsZrR_SxHmg" presentationName="Analyze Products And Services" isPlanned="true" superActivities="_JZ7BhSNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ6adiNwEeeOsZrR_SxHmg" output="_JZ6adCNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ6aciNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_PwmIqEQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_HZ-FoPfDEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ6adCNwEeeOsZrR_SxHmg" name="market_prod_service_strat" guid="_JZ6adCNwEeeOsZrR_SxHmg" presentationName="Marketing Product/Service Strategy" briefDescription="The output of the Marketing Product/Service Strategy Work Product Description is a plan that helps management allocate resources to maximize probabilities that the company will create, market and distribute products and services that profitably meet the needs of buyers." superActivities="_JZ7BhSNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNmhNiNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PwmIqUQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-mO2D6fL6muDu-w-gNUiWWQ" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-mO2D6fL6muDu-w-gNUiWWQ"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_Ai8SIKQVEdyRleJhp9IzvA"/>
+        <supportingMaterials href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_i-PBoKQVEdyRleJhp9IzvA"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_DDbR4KQVEdyRleJhp9IzvA"/>
+        <WorkProduct href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb874AB3125D5FDE8285256BEA0068C268"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ6adyNwEeeOsZrR_SxHmg" name="identify_market_segments" guid="_JZ6adyNwEeeOsZrR_SxHmg" presentationName="Identify Market Segments" isPlanned="true" superActivities="_JZ7BhSNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ6adiNwEeeOsZrR_SxHmg" output="_JZ7BgyNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ6aciNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_PwmIqkQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_IdxsAPfDEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ7BgyNwEeeOsZrR_SxHmg" name="market_channel_strat" guid="_JZ7BgyNwEeeOsZrR_SxHmg" presentationName="Marketing Channel Strategy" briefDescription="Channels exist to deliver value to buyers-good pricing, easy access, consistency and, if possible, a sense of belonging. " superActivities="_JZ7BhSNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNmhNyNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_PwmIq0Q-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-5qz9tHs5kfnSr4GsQW3hzg" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-5qz9tHs5kfnSr4GsQW3hzg"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_oN27sKNmEdyma99y4oS03w"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_f6J1kKNlEdyma99y4oS03w"/>
+        <supportingMaterials href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_748RIKNkEdyma99y4oS03w"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_GUg4IKNlEdyma99y4oS03w"/>
+        <WorkProduct href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mwebA48CD01657A99B2585256BF400711CC1"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ7BgCNwEeeOsZrR_SxHmg" name="determine_target_market_segment" guid="_JZ7BgCNwEeeOsZrR_SxHmg" presentationName="Determine Target Market Segment" isPlanned="true" superActivities="_JZ7BhSNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ6adiNwEeeOsZrR_SxHmg" output="_JZ7BgiNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ6aciNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_Pwv5oEQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_Jl4jkPfDEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ7BgiNwEeeOsZrR_SxHmg" name="market_analysis" guid="_JZ7BgiNwEeeOsZrR_SxHmg" presentationName="Market Analysis" briefDescription="An identification and assessment of a current or potential market, market segments and related customer requirements to determine its attractiveness against some set of criteria (e.g., size, location, demographics, strategic fit, product/service fit, etc.).&#xD;&#xA;" superActivities="_JZ7BhSNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNmhOCNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Pwv5oUQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <WorkProduct href="uma://_eiO4cOLMEd21SrwPIauviQ#_58e6ALuvEd2OlMMBGe_43g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ6acyNwEeeOsZrR_SxHmg" name="evaluate_market_pricing" guid="_JZ6acyNwEeeOsZrR_SxHmg" presentationName="Evaluate Market Pricing" isPlanned="true" superActivities="_JZ7BhSNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ6adiNwEeeOsZrR_SxHmg" output="_JZ7BhCNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ6aciNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_Pwv5okQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_KwFs4PfDEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ7BhCNwEeeOsZrR_SxHmg" name="marketing_pricing_strategy" guid="_JZ7BhCNwEeeOsZrR_SxHmg" presentationName="Marketing Pricing Strategy" briefDescription="This work product description is intended to provide marketing decision-makers with a structure for making optimal pricing decisions for products and services. " superActivities="_JZ7BhSNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNmhOSNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Pwv5o0Q-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-ER6_XAIgYWIae8IMah3h5Q" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-ER6_XAIgYWIae8IMah3h5Q"/>
+        <checklists href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_0LDM0CJiEd2j97OFQtqbdA"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_KUUt4CJfEd2j97OFQtqbdA"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_TjN0cCJhEd2j97OFQtqbdA"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb037452607858796301"/>
+        <WorkProduct href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mwebC19DC84E4EE6A4C585256BF400749A15"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_JZ5MVSNwEeeOsZrR_SxHmg" name="develop_performance_measurement_framework" guid="_JZ5MVSNwEeeOsZrR_SxHmg">
+      <methodElementProperty xmi:id="_KNmhRyNwEeeOsZrR_SxHmg" name="pkg_loadCheck" value="true"/>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_JZ5MViNwEeeOsZrR_SxHmg" name="develop_performance_measurement_framework" guid="_JZ5MViNwEeeOsZrR_SxHmg" presentationName="Develop Performance Measurement Framework" superActivities="_JZ5MVCNwEeeOsZrR_SxHmg" breakdownElements="_JZ5zYyNwEeeOsZrR_SxHmg _JZ6acCNwEeeOsZrR_SxHmg _JZ5zZCNwEeeOsZrR_SxHmg _JZ5zZiNwEeeOsZrR_SxHmg _JZ5zYCNwEeeOsZrR_SxHmg _JZ5MVyNwEeeOsZrR_SxHmg _JZ5zZyNwEeeOsZrR_SxHmg _JZ5zYiNwEeeOsZrR_SxHmg _JZ5zYSNwEeeOsZrR_SxHmg _JZ5zZSNwEeeOsZrR_SxHmg _JZ5zaCNwEeeOsZrR_SxHmg">
+        <guidelines href="uma://_eiO4cOLMEd21SrwPIauviQ#_z9kp8MXTEd2lfNy0RRxeyQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ5zYyNwEeeOsZrR_SxHmg" name="determine_critical_sucess_factors" guid="_JZ5zYyNwEeeOsZrR_SxHmg" presentationName="Determine Critical Success Factors (CSFs)" isPlanned="true" superActivities="_JZ5MViNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ5zZCNwEeeOsZrR_SxHmg" mandatoryInput="_JZ5zZiNwEeeOsZrR_SxHmg" output="_JZ5zZiNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ6acCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_Pwv5pEQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-9t0_vSbpO8BZRLLERCpnwg" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-9t0_vSbpO8BZRLLERCpnwg"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_NEIMEPfDEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_JZ6acCNwEeeOsZrR_SxHmg" name="business_design_consultant" guid="_JZ6acCNwEeeOsZrR_SxHmg" presentationName="Business Design Consultant" briefDescription="This role is responsible for understanding and assessing a client’s business operations, identifying issues and opportunities and recommending appropriate solutions." superActivities="_JZ5MViNwEeeOsZrR_SxHmg" modifies="_JZ5MVyNwEeeOsZrR_SxHmg _JZ5zYiNwEeeOsZrR_SxHmg _JZ5zaCNwEeeOsZrR_SxHmg _JZ5zZiNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNmhOiNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Pwv5pUQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-rDEa9-uH87Z9ZvxbxFZCKA" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-rDEa9-uH87Z9ZvxbxFZCKA"/>
+        <supportingMaterials href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#_sVjsgJ6_Ed27bY502lI01A"/>
+        <Role href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#_m35rAGsKEdurP9SfqLNBKA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_JZ5zZCNwEeeOsZrR_SxHmg" name="strategy_consultant" guid="_JZ5zZCNwEeeOsZrR_SxHmg" presentationName="Strategy Consultant" briefDescription="This role assists clients to determine their business issues and recommend solutions to drive business value." superActivities="_JZ5MViNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNmhOyNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Pw5Dk0Q-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-TI4CblkyVUS37VUDpsR8uw" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-TI4CblkyVUS37VUDpsR8uw"/>
+        <Role href="uma://_amJ-MN4ZEdu25OD-z7hkTQ#mweb4A557CAE63011DCA852567D800504119"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ5zZiNwEeeOsZrR_SxHmg" name="conditions_satisfaction" guid="_JZ5zZiNwEeeOsZrR_SxHmg" presentationName="Conditions of Satisfaction" briefDescription="This artifact captures the sponsor's expectations, priorities, and assessment of how well their expectations were met." superActivities="_JZ5MViNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNmhPCNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Pwv5pkQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-n01Id1npfJIUFslqdzq0bA" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-n01Id1npfJIUFslqdzq0bA"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_zSmYQOGIEd2Nrpmv7LGbHQ"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_twR8YDkAEdytV6NBXrpheA"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_yKzVADkCEdytV6NBXrpheA"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_mQKnQOGJEd2Nrpmv7LGbHQ"/>
+        <supportingMaterials href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_71TO8DkDEdytV6NBXrpheA"/>
+        <templates href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_EEMioOGIEd2Nrpmv7LGbHQ"/>
+        <templates href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_D9VQkDkFEdytV6NBXrpheA"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb037728717071759200"/>
+        <WorkProduct href="uma://_udPZUI7REdym4qSbJ6594A#mweb586DD2FDD4E7778085256CFE006EFE34"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ5zYCNwEeeOsZrR_SxHmg" name="determine_csf_performance_measures" guid="_JZ5zYCNwEeeOsZrR_SxHmg" presentationName="Determine CSF Performance Measures" isPlanned="true" superActivities="_JZ5MViNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ5zZCNwEeeOsZrR_SxHmg" output="_JZ5MVyNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ6acCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_Pw5DlUQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_OSomkPfDEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ5MVyNwEeeOsZrR_SxHmg" name="measurement_model" guid="_JZ5MVyNwEeeOsZrR_SxHmg" presentationName="Measurement Model" briefDescription="The Measurement Model work product describes the measurements that have been identified and developed as part of an project, either as a standalone unit or in the context of an implementation of a measurement program. " superActivities="_JZ5MViNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNmhPSNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Pw5DlkQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-Z-dlKUy4J-flBvAl04J6ZQ" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-Z-dlKUy4J-flBvAl04J6ZQ"/>
+        <examples href="uma://_80DJALIZEd-N5bnHM2fzaQ#_RugcsFrLEdyF--678j6dPw"/>
+        <guidelines href="uma://_80DJALIZEd-N5bnHM2fzaQ#_ccYX0FrPEdyF--678j6dPw"/>
+        <guidelines href="uma://_80DJALIZEd-N5bnHM2fzaQ#mweb60CC884924F4A1C985256A0D00648358"/>
+        <supportingMaterials href="uma://_80DJALIZEd-N5bnHM2fzaQ#_BbwYMFrREdyF--678j6dPw"/>
+        <estimationconsiderations href="uma://_80DJALIZEd-N5bnHM2fzaQ#mweb370790932175926748"/>
+        <WorkProduct href="uma://_XbRUMJxTEdypL4fxSaom6Q#mweb711C1245231E681985256A0D007648AF"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ5zZyNwEeeOsZrR_SxHmg" name="determine_csf_performance_targets" guid="_JZ5zZyNwEeeOsZrR_SxHmg" presentationName="Determine CSF Performance Targets" isPlanned="true" superActivities="_JZ5MViNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ5zZCNwEeeOsZrR_SxHmg" output="_JZ5zYiNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ6acCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_Pw5Dl0Q-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_Pb-0QPfDEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ5zYiNwEeeOsZrR_SxHmg" name="financial_benchmarks" guid="_JZ5zYiNwEeeOsZrR_SxHmg" presentationName="Financial Benchmarks" briefDescription="The Financial Benchmarks work product compares and contrasts the metrics, trends and relationships that characterize the financial condition of the client’s business at the time the engagement is commenced with the same metrics for other relevant firms and groups of firms [e. g., industry averages]. " superActivities="_JZ5MViNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNmhPiNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Pw5DmEQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-BjtAyEkXSmJdVEjggs6FpA" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-BjtAyEkXSmJdVEjggs6FpA"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#__eeUkFeNEdyw87lqhgh7VQ"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_Gt8K8FeZEdyw87lqhgh7VQ"/>
+        <supportingMaterials href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_5Vo80FeHEdyw87lqhgh7VQ"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb370790479398148661"/>
+        <WorkProduct href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb9F9EAAD21F59773A8525688200704333"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ5zYSNwEeeOsZrR_SxHmg" name="link_bus_strat_to_perf_targets" guid="_JZ5zYSNwEeeOsZrR_SxHmg" presentationName="Link Business Strategies to Performance Targets" isPlanned="true" superActivities="_JZ5MViNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ5zZCNwEeeOsZrR_SxHmg" output="_JZ5MVyNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ6acCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_Pw5DmUQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_QiE5oPfDEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JZ5zZSNwEeeOsZrR_SxHmg" name="identify_performance_gaps" guid="_JZ5zZSNwEeeOsZrR_SxHmg" presentationName="Identify Performance Gaps" isPlanned="true" superActivities="_JZ5MViNwEeeOsZrR_SxHmg" additionallyPerformedBy="_JZ5zZCNwEeeOsZrR_SxHmg" output="_JZ5zaCNwEeeOsZrR_SxHmg" performedPrimarilyBy="_JZ6acCNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_Pw5DmkQ-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ewcpYPeuEd2nMMS1LkJfXg#_Q8Jb8PfCEd23iLQQBBJ00g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_JZ5zaCNwEeeOsZrR_SxHmg" name="financial_assessment" guid="_JZ5zaCNwEeeOsZrR_SxHmg" presentationName="Financial Assessment" briefDescription="The Financial Assessment work product identifies, documents and quantifies the metrics, trends and relationships that characterize the financial condition of the client’s business at the time the Transformation project is commenced. " superActivities="_JZ5MViNwEeeOsZrR_SxHmg">
+        <methodElementProperty xmi:id="_KNmhPyNwEeeOsZrR_SxHmg" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Pw5Dm0Q-Eeeip6KVLZLdJg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-g7qBRxGlFCmSpaql1g_0nw" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-g7qBRxGlFCmSpaql1g_0nw"/>
+        <examples href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_A_I3EFeDEdyw87lqhgh7VQ"/>
+        <guidelines href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_xmaSMFeFEdyw87lqhgh7VQ"/>
+        <supportingMaterials href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#_5Vo80FeHEdyw87lqhgh7VQ"/>
+        <estimationconsiderations href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb370790471527778564"/>
+        <WorkProduct href="uma://mweb093C35670000010DE58ECCBE8B9CEFC9#mweb2927721159BA0C048525688200701E95"/>
+      </processElements>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_JZ5MVCNwEeeOsZrR_SxHmg" name="dev_ent_overview_prac" guid="_JZ5MVCNwEeeOsZrR_SxHmg" presentationName="Develop Enterprise Overview" breakdownElements="_JZ2JBCNwEeeOsZrR_SxHmg _JZ3XJyNwEeeOsZrR_SxHmg _JZ7okCNwEeeOsZrR_SxHmg _JZ4lQCNwEeeOsZrR_SxHmg _JZ7BhSNwEeeOsZrR_SxHmg _JZ5MViNwEeeOsZrR_SxHmg">
+      <methodElementProperty xmi:id="_KNmhQCNwEeeOsZrR_SxHmg" name="process_synFree" value="true"/>
+      <presentation xmi:id="-Pe7_4jQnLGXry8rHGz9Cvg" href="uma://-Pe7_4jQnLGXry8rHGz9Cvg#-Pe7_4jQnLGXry8rHGz9Cvg"/>
+      <defaultContext href="uma://_FppzJU9TEeePA9dYaELX1w#_8epBYCNwEeeOsZrR_SxHmg"/>
+      <validContext href="uma://_FppzJU9TEeePA9dYaELX1w#_8epBYCNwEeeOsZrR_SxHmg"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-Pe7_4jQnLGXry8rHGz9Cvg" name="develop_enterprise_overview,_5sywQfhMEd2-6LAfV6aUTQ" guid="-Pe7_4jQnLGXry8rHGz9Cvg" version="7.2.0"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mFCn0m7K0GEskEPZU86HkQ" name="business_design_consultant,_JZ2wFSNwEeeOsZrR_SxHmg" guid="-mFCn0m7K0GEskEPZU86HkQ">
+    <refinedDescription>&lt;p>
+    This role&amp;nbsp;documents current, and design future, operational scenarios (processes, models, rules, use cases,
+    policies, plans and solutions). They work with the client and other consulting specialties to ensure proper translation
+    of business requirements into a set of structured business process, knowledge, technology, and organization
+    specifications that satisfy the client’s strategic and operational objectives.
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-cZIdRPtdFfYqQy1f7xjpwg" name="strategy_consultant,_JZ2wECNwEeeOsZrR_SxHmg" guid="-cZIdRPtdFfYqQy1f7xjpwg">
+    <refinedDescription>This role&amp;nbsp;uses in-depth consulting skills and business knowledge aligned to business objectives, processes,
+measurements and tools to analyse their clients business issues, formulate hypotheses and test conclusions to determine
+appropriate solutions.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-w-BqiDf0qhX-d8CxxQejNw" name="business_direction,_JZ2wFCNwEeeOsZrR_SxHmg" guid="-w-BqiDf0qhX-d8CxxQejNw">
+    <keyConsiderations>&lt;p>
+    Challenge the management team's statements on measurability and feasibility.
+&lt;/p>
+&lt;p>
+    Very often, Business goals, and CSF's are not well defined.&amp;nbsp; If this is the case try to convince the management
+    team to work on this as their preparation to the Business Focus Workshop.&amp;nbsp; MetaPlan can really help doing this
+    effectively and efficiently.
+&lt;/p>
+&lt;p>
+    Find out how a business direction process is used in the organization.&amp;nbsp; Find out what management layers have
+    influence on a mission, goals, strategy, CSF’s and key performance indicators (KPI) process. Is it a yearly process or
+    dynamic, used or put away in a bottom drawer? How is the terminology used?
+&lt;/p>
+&lt;p>
+    Find out if the Management team – especially the members of the HR and marketing organizations – are familiar with
+    accessibility standards for their on-line information and services.&amp;nbsp; While your customer may not be under a
+    government regulation requiring that it makes its information and services accessible, customers with e-business models
+    may recognize substantial brand value from ensuring that their information, services and business processes are
+    accessible.
+&lt;/p>
+&lt;p>
+    Additionally, where e-Government and e-business are gaining momentum, the accessibility of information and services is
+    shifting from solely a regulatory mandate to an explicit element of the organization’s vision and mission.
+&lt;/p>&lt;p/>&lt;p>
+    &lt;strong>&lt;em>Note:&lt;/em>&lt;/strong>&amp;nbsp; With the increasing degrees of uncertainty brought on by e-business,
+    practitioners might wish to familiarize themselves with Stephan Haeckel's book Adaptive Enterprise.&amp;nbsp; Traditional
+    concepts regarding strategic direction will be profoundly tested and practitioners should be aware of the changes and
+    be able to articulate a required strategy in the new information economy brought on by e-business.&amp;nbsp; The following
+    are excerpts from the introduction and first chapter of this book.
+&lt;/p>
+&lt;p>
+    &lt;em>In the information economy brought on by e-business, traditional content within vision, mission, goals etc. is
+    changing rapidly and successful companies are articulating strategic directions from a &quot;sense &amp;amp; respond&quot;
+    perspective, rather than a &quot;make and sell&quot; perspective, meaning that strategic directions should be based on a highly
+    anticipative modular organization with mechanisms that rapidly identify what a customer believes are of value instead
+    of trying to predict what customers want, making it and then pushing it to them.&amp;nbsp; The latter is that structure
+    follows strategy rather than strategy as structure.&amp;nbsp;&lt;/em>
+&lt;/p>
+&lt;p>
+    &lt;em>Over time, companies will create a &quot;context&quot; that unambiguously establishes what the firm does and the constraints
+    for how it does it.&amp;nbsp; Leaders will specify how employees interrelate to achieve an organization's purpose.&amp;nbsp;
+    The elements of the &quot;context&quot; thus established can be seen as analogous to the traditional concepts of mission, policy
+    and organization, but with some important differences.&amp;nbsp; As long as the employees stay within the parameters
+    defined by the context, the business empowers them to determine for themselves how best to deliver results for which
+    they have been made accountable.&amp;nbsp; The result is that context and coordination replace traditional command and
+    control.&amp;nbsp; As individuals in the organization adapt to differing customer requests, always staying within the
+    current organizational context, leadership actively seeks out environmental and internal signals that will help it
+    improve the organizational context itself.&amp;nbsp; What happens is that the sense and respond alternative implies a
+    different way in expressing strategy.&amp;nbsp; Once a company organizes itself to recognize current customer needs and
+    responds to them, it no longer operates from a strategic plan.&amp;nbsp; Now the DESIGN of its systematic capability to
+    respond to unanticipated customer requests expresses its strategy (strategy as a structure as opposed to traditional
+    strategic direction where structure follows strategy a process which now takes too long to effectively respond in the
+    information economy of e-business).&lt;/em>
+&lt;/p>
+&lt;p>
+    Be aware of the language and notation that the client’s organization is using. While this work product uses commonly
+    accepted definitions, the terms vision, mission, goals etc. are often used slightly differently.
+&lt;/p>
+&lt;p>
+    The company’s culture, structure, maturity or economic positions all define the client’s business direction. The
+    strategic direction should ultimately be &quot;grounded&quot;: we consider it to be grounded when it is cascaded throughout the
+    organization, processes and functions and is proactively managed.
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>
+    A '&lt;i>high-level&lt;/i>’ understanding is gained of what the enterprise is and aspires to become, how it intends to
+    achieve its goals and make the desired transition and by what means. What is included in the business direction depends
+    upon the nature of the engagement.
+&lt;/p>
+&lt;p>
+    At a minimum, the company's vision, mission, goals and strategic direction should be understood and documented. It is
+    often enough to provide guidance for analysis and alignment of any functional area of a company, including IT, and to
+    provide prioritization criteria for initiatives, programs, projects and even modules of a technology package. This is
+    because good vision, mission, goal statements and strategic direction usually identify a future view, a description of
+    types of offerings and customers, and means to achieve the desired outcome.
+&lt;/p>
+&lt;p>
+    In practice, value propositions, required capabilities and key resources to enable a capability, are replacing the use
+    of traditional strategic concepts like Critical Success Factors and Distinctive Competencies.
+&lt;/p>
+&lt;p>
+    The following terms are used&amp;nbsp;in this artifact: &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../core.legacy.common.base-ibm_lic/guidances/termdefinitions/vision_statement_D533A1EE.html&quot;
+    guid=&quot;_CsNAIEovEd6hPZWzFSGlXQ&quot;>vision statement&lt;/a>, &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../core.legacy.common.base-ibm_lic/guidances/termdefinitions/mission_statement_C2BD9192.html&quot;
+    guid=&quot;_nqyBMEouEd6hPZWzFSGlXQ&quot;>mission statement&lt;/a>, &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../core.legacy.common.base-ibm_lic/guidances/termdefinitions/business_goals_96C1D3D3.html&quot;
+    guid=&quot;_X1FeYEovEd6hPZWzFSGlXQ&quot;>business goals&lt;/a>, &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../core.legacy.common.base-ibm_lic/guidances/termdefinitions/critical_success_factors_34B403E6.html&quot;
+    guid=&quot;_kD_EMEovEd6hPZWzFSGlXQ&quot;>critical success factors (CSF's)&lt;/a>, &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../core.legacy.common.base-ibm_lic/guidances/termdefinitions/value_proposition_6FB19D8B.html&quot;
+    guid=&quot;_k0bCoEovEd6hPZWzFSGlXQ&quot;>value proposition&lt;/a>, &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../core.legacy.common.base-ibm_lic/guidances/termdefinitions/capability_9ACCE570.html&quot;
+    guid=&quot;_kb08cEovEd6hPZWzFSGlXQ&quot;>capability&lt;/a>, and &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../core.legacy.common.base-ibm_lic/guidances/termdefinitions/key_perf_indicator_3F700A39.html&quot;
+    guid=&quot;_GJqwEEowEd6hPZWzFSGlXQ&quot;>key performance indicator (KPI)&lt;/a>.
+&lt;/p>&lt;p/>The technique paper associated with this work product therefore also includes a brief discussion of Value Propositions and
+Capabilities and how these can be used to show business direction.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-oebWBXiqy1XXj4lAJIGDZw" name="interview_survey_specs,_JZ2wFyNwEeeOsZrR_SxHmg" guid="-oebWBXiqy1XXj4lAJIGDZw">
+    <keyConsiderations>&lt;p>&#xD;
+    Check what the client's previous experience has been in interview or survey situations.&amp;nbsp; Learn what you can about&#xD;
+    the organization's culture and previous reactions and what works and what does not work in their environment.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If survey is to be delivered in several languages, consider how translation is to be handled and what is the best way&#xD;
+    of organizing the material.&amp;nbsp; Be realistic about the time needed for the translation of the material (it takes&#xD;
+    longer than you think!).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The study will have been successful if an adequate number of responses are obtained, representing complete coverage of&#xD;
+    the targeted respondent groups to ensure no skewed results in order to be able to provide insights into the&#xD;
+    organizations performance relative to the areas of study. Therefore it is important to keep in mind the business&#xD;
+    reasons for investigating the area of study at all times when developing the specifications and the actual material.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Ensure the specifications and materials:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Meet business, performance, and documentation requirements&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Address the objectives of the study and the constraints of the engagement&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    The interview or survey instrument can be the initial repository of responses depending upon the&amp;nbsp;media selected or&#xD;
+    as in the case of internet surveys the media through which that repository is populated with the results.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In the case of a typical consulting project, this work product would capture the targeted area of study, respondents,&#xD;
+    timeframes, hypothesis and questions to be tested, delivery media, analysis approach, and resource requirements.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-A3uy5DkH6Pe90UPTWAIinA" name="det_mgmt_perception_strat_importance_tech,_JZ2JAiNwEeeOsZrR_SxHmg" guid="-A3uy5DkH6Pe90UPTWAIinA">
+    <refinedDescription>&lt;font size=&quot;2&quot;>&lt;br />&#xD;
+&lt;/font></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FSQ1yjUGwsqSyaIuPxPorA" name="crit_issues_opps_recomend,_JZ2wFiNwEeeOsZrR_SxHmg" guid="-FSQ1yjUGwsqSyaIuPxPorA">
+    <keyConsiderations>&lt;ul>
+    &lt;li>
+        The processes being analyzed must have already been defined, documented and mapped, showing key activities.
+    &lt;/li>
+    &lt;li>
+        Use subject matter experts to minimize lost time and credibility.
+    &lt;/li>
+    &lt;li>
+        Use the simple tools and techniques to help identify root causes; brainstorming, cause and effect (fishbone)
+        diagrams, scatter diagrams, pareto diagrams.
+    &lt;/li>
+    &lt;li>
+        Process flow diagrams are excellent vehicles to enable process analysis - they can be appended with cycle times and
+        symbols to indicated problem areas or opportunities for improvement.
+    &lt;/li>
+    &lt;li>
+        Try to do as much analysis at the activity versus the task level.&amp;nbsp; Note: an activity can be manual or
+        automated and completes a unit of work.&amp;nbsp; A series of activities are linked together into a workflow to
+        accomplish a sub-process that provides a discernible output.&amp;nbsp; Several sub-processes (e.g. provide product /
+        service information, provide quotation, etc.) make up a process (e.g. agree contract).
+    &lt;/li>
+    &lt;li>
+        There are often many problem areas, so it is key to prioritize these and only undertake root cause analysis on the
+        top priority ones.
+    &lt;/li>
+    &lt;li>
+        There are usually many root causes, so it is key to understand how severe / to what extent these contribute to the
+        problem areas.Then only brainstorm ideas to solve the top priority root causes.
+    &lt;/li>
+    &lt;li>
+        Avoid getting bogged down in &quot;analysis paralysis&quot;.
+    &lt;/li>
+&lt;/ul>&lt;p/>&lt;ul class=&quot;noindent&quot;>
+    &lt;li>
+        e-business is providing an opportunity to conduct business differently.&amp;nbsp; It is important to understand the
+        client's focus –
+    &lt;/li>
+&lt;/ul>
+&lt;ul>
+    &lt;li>
+        improving current processes with web technology,
+    &lt;/li>
+    &lt;li>
+        re-engineering their business to take advantage of web technology, or
+    &lt;/li>
+    &lt;li>
+        reinventing the supply chain and how they deal with their customers and suppliers.&amp;nbsp;
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    This affects how much analysis should be done based on the current environment versus focussing on the future design.
+&lt;/p></keyConsiderations>
+    <refinedDescription>The Critical Issues, Opportunities and Recommendations work product identifies important problems and improvement
+opportunities for which effective solutions must be provided. It also suggests actions to be taken to rectify the situation
+and the benefits to be derived.&lt;p/>It results in a customer-oriented document, which presents a comprehensive view of issues, concerns, potential problems and
+their solutions and allows the customer to prioritize efforts to address the issues and opportunities.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-cdAVhKCrEUhKQVOTAonkEw" name="strategic_technology_direction,_JZ2wEiNwEeeOsZrR_SxHmg" guid="-cdAVhKCrEUhKQVOTAonkEw">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>This artifact is a high-level description of the strategic vision, goals and objectives an enterprise&#xD;
+    intends to achieve with its Information Technology capabilities, how its current IT capabilities align with and support&#xD;
+    the business goals and objectives, the characteristics and capabilities of the future technology environment that it&#xD;
+    needs to deploy to achieve those goals and objectives and the technology transition initiatives that are&#xD;
+    required.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-6-iNGLcxE0s8lKMw5ftPpg" name="business_design_consultant,_JZ3-NCNwEeeOsZrR_SxHmg" guid="-6-iNGLcxE0s8lKMw5ftPpg">
+    <refinedDescription>&lt;p>
+    This role&amp;nbsp;documents current, and design future, operational scenarios (processes, models, rules, use cases,
+    policies, plans and solutions). They work with the client and other consulting specialties to ensure proper translation
+    of business requirements into a set of structured business process, knowledge, technology, and organization
+    specifications that satisfy the client’s strategic and operational objectives.
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Zc82e6JzG6lk0Uivx7Jy-Q" name="strategy_consultant,_JZ3XJSNwEeeOsZrR_SxHmg" guid="-Zc82e6JzG6lk0Uivx7Jy-Q">
+    <refinedDescription>This role&amp;nbsp;uses in-depth consulting skills and business knowledge aligned to business objectives, processes,
+measurements and tools to analyse their clients business issues, formulate hypotheses and test conclusions to determine
+appropriate solutions.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-W5zTlCuBdg3D15q2wmoUOw" name="business_direction,_JZ3-MyNwEeeOsZrR_SxHmg" guid="-W5zTlCuBdg3D15q2wmoUOw">
+    <keyConsiderations>&lt;p>
+    Challenge the management team's statements on measurability and feasibility.
+&lt;/p>
+&lt;p>
+    Very often, Business goals, and CSF's are not well defined.&amp;nbsp; If this is the case try to convince the management
+    team to work on this as their preparation to the Business Focus Workshop.&amp;nbsp; MetaPlan can really help doing this
+    effectively and efficiently.
+&lt;/p>
+&lt;p>
+    Find out how a business direction process is used in the organization.&amp;nbsp; Find out what management layers have
+    influence on a mission, goals, strategy, CSF’s and key performance indicators (KPI) process. Is it a yearly process or
+    dynamic, used or put away in a bottom drawer? How is the terminology used?
+&lt;/p>
+&lt;p>
+    Find out if the Management team – especially the members of the HR and marketing organizations – are familiar with
+    accessibility standards for their on-line information and services.&amp;nbsp; While your customer may not be under a
+    government regulation requiring that it makes its information and services accessible, customers with e-business models
+    may recognize substantial brand value from ensuring that their information, services and business processes are
+    accessible.
+&lt;/p>
+&lt;p>
+    Additionally, where e-Government and e-business are gaining momentum, the accessibility of information and services is
+    shifting from solely a regulatory mandate to an explicit element of the organization’s vision and mission.
+&lt;/p>&lt;p/>&lt;p>
+    &lt;strong>&lt;em>Note:&lt;/em>&lt;/strong>&amp;nbsp; With the increasing degrees of uncertainty brought on by e-business,
+    practitioners might wish to familiarize themselves with Stephan Haeckel's book Adaptive Enterprise.&amp;nbsp; Traditional
+    concepts regarding strategic direction will be profoundly tested and practitioners should be aware of the changes and
+    be able to articulate a required strategy in the new information economy brought on by e-business.&amp;nbsp; The following
+    are excerpts from the introduction and first chapter of this book.
+&lt;/p>
+&lt;p>
+    &lt;em>In the information economy brought on by e-business, traditional content within vision, mission, goals etc. is
+    changing rapidly and successful companies are articulating strategic directions from a &quot;sense &amp;amp; respond&quot;
+    perspective, rather than a &quot;make and sell&quot; perspective, meaning that strategic directions should be based on a highly
+    anticipative modular organization with mechanisms that rapidly identify what a customer believes are of value instead
+    of trying to predict what customers want, making it and then pushing it to them.&amp;nbsp; The latter is that structure
+    follows strategy rather than strategy as structure.&amp;nbsp;&lt;/em>
+&lt;/p>
+&lt;p>
+    &lt;em>Over time, companies will create a &quot;context&quot; that unambiguously establishes what the firm does and the constraints
+    for how it does it.&amp;nbsp; Leaders will specify how employees interrelate to achieve an organization's purpose.&amp;nbsp;
+    The elements of the &quot;context&quot; thus established can be seen as analogous to the traditional concepts of mission, policy
+    and organization, but with some important differences.&amp;nbsp; As long as the employees stay within the parameters
+    defined by the context, the business empowers them to determine for themselves how best to deliver results for which
+    they have been made accountable.&amp;nbsp; The result is that context and coordination replace traditional command and
+    control.&amp;nbsp; As individuals in the organization adapt to differing customer requests, always staying within the
+    current organizational context, leadership actively seeks out environmental and internal signals that will help it
+    improve the organizational context itself.&amp;nbsp; What happens is that the sense and respond alternative implies a
+    different way in expressing strategy.&amp;nbsp; Once a company organizes itself to recognize current customer needs and
+    responds to them, it no longer operates from a strategic plan.&amp;nbsp; Now the DESIGN of its systematic capability to
+    respond to unanticipated customer requests expresses its strategy (strategy as a structure as opposed to traditional
+    strategic direction where structure follows strategy a process which now takes too long to effectively respond in the
+    information economy of e-business).&lt;/em>
+&lt;/p>
+&lt;p>
+    Be aware of the language and notation that the client’s organization is using. While this work product uses commonly
+    accepted definitions, the terms vision, mission, goals etc. are often used slightly differently.
+&lt;/p>
+&lt;p>
+    The company’s culture, structure, maturity or economic positions all define the client’s business direction. The
+    strategic direction should ultimately be &quot;grounded&quot;: we consider it to be grounded when it is cascaded throughout the
+    organization, processes and functions and is proactively managed.
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>
+    A '&lt;i>high-level&lt;/i>’ understanding is gained of what the enterprise is and aspires to become, how it intends to
+    achieve its goals and make the desired transition and by what means. What is included in the business direction depends
+    upon the nature of the engagement.
+&lt;/p>
+&lt;p>
+    At a minimum, the company's vision, mission, goals and strategic direction should be understood and documented. It is
+    often enough to provide guidance for analysis and alignment of any functional area of a company, including IT, and to
+    provide prioritization criteria for initiatives, programs, projects and even modules of a technology package. This is
+    because good vision, mission, goal statements and strategic direction usually identify a future view, a description of
+    types of offerings and customers, and means to achieve the desired outcome.
+&lt;/p>
+&lt;p>
+    In practice, value propositions, required capabilities and key resources to enable a capability, are replacing the use
+    of traditional strategic concepts like Critical Success Factors and Distinctive Competencies.
+&lt;/p>
+&lt;p>
+    The following terms are used&amp;nbsp;in this artifact: &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../core.legacy.common.base-ibm_lic/guidances/termdefinitions/vision_statement_D533A1EE.html&quot;
+    guid=&quot;_CsNAIEovEd6hPZWzFSGlXQ&quot;>vision statement&lt;/a>, &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../core.legacy.common.base-ibm_lic/guidances/termdefinitions/mission_statement_C2BD9192.html&quot;
+    guid=&quot;_nqyBMEouEd6hPZWzFSGlXQ&quot;>mission statement&lt;/a>, &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../core.legacy.common.base-ibm_lic/guidances/termdefinitions/business_goals_96C1D3D3.html&quot;
+    guid=&quot;_X1FeYEovEd6hPZWzFSGlXQ&quot;>business goals&lt;/a>, &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../core.legacy.common.base-ibm_lic/guidances/termdefinitions/critical_success_factors_34B403E6.html&quot;
+    guid=&quot;_kD_EMEovEd6hPZWzFSGlXQ&quot;>critical success factors (CSF's)&lt;/a>, &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../core.legacy.common.base-ibm_lic/guidances/termdefinitions/value_proposition_6FB19D8B.html&quot;
+    guid=&quot;_k0bCoEovEd6hPZWzFSGlXQ&quot;>value proposition&lt;/a>, &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../core.legacy.common.base-ibm_lic/guidances/termdefinitions/capability_9ACCE570.html&quot;
+    guid=&quot;_kb08cEovEd6hPZWzFSGlXQ&quot;>capability&lt;/a>, and &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../core.legacy.common.base-ibm_lic/guidances/termdefinitions/key_perf_indicator_3F700A39.html&quot;
+    guid=&quot;_GJqwEEowEd6hPZWzFSGlXQ&quot;>key performance indicator (KPI)&lt;/a>.
+&lt;/p>&lt;p/>The technique paper associated with this work product therefore also includes a brief discussion of Value Propositions and
+Capabilities and how these can be used to show business direction.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wiZjQPDenQTIkV5FGYBqiw" name="market_prod_service_strat,_JZ3XIyNwEeeOsZrR_SxHmg" guid="-wiZjQPDenQTIkV5FGYBqiw">
+    <keyConsiderations>&lt;p>
+    Beware of diversifying without exploiting the existing market for existing products and services. This can result in
+    spreading resources too thinly.
+&lt;/p>
+&lt;p>
+    A product/service marketing strategy is a long-term decision, based on sound knowledge of internal and external
+    factors. It may require extensive primary and secondary research. It will require senior management buy-in and
+    commitment and sufficient allocated resources. Measurement and control needs to be considered to determine the success
+    of the product/service strategy.
+&lt;/p>
+&lt;p>
+    Help the client to formulate the product/marketing strategy from an external viewpoint. Sellers often see themselves as
+    selling an offering; customers see themselves buying value or a solution to a problem.&amp;nbsp; The following graphic
+    helps to make the distinction:
+&lt;/p>
+&lt;p>
+    &lt;img height=&quot;325&quot; alt=&quot;&quot; src=&quot;./../../practice.bus.dev_ent_overview.extend-ibm_int/workproducts/resources/marketing_product_service_strategy1.JPG&quot; width=&quot;600&quot; />&lt;br />
+&lt;/p>
+&lt;p>
+    This work product depends on a variety of inputs which may/may not have been completed. It is important that questions
+    are asked, and answers obtained to clarify the company’s overall business strategy.&amp;nbsp; Then, consistency of the
+    product/service marketing strategy before committing the company’s resources to tactical actions.&amp;nbsp;
+&lt;/p>
+&lt;p>
+    The product/service marketing strategy should be driven by the company’s mission and objectives and balanced against
+    constraints, such as internal resources (organization, budget, capability), in light of what is happening in the
+    marketplace (customer needs, competitors, environmental factors).
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>
+    Strategic decisions regarding the marketing of individual products and services must be made, just as strategic
+    decisions are made for the larger company. The difference is that the scope is more restricted; it is a subset of the
+    larger company-wide effort.&amp;nbsp; The product/service marketing strategy is typically focused on two major
+    issues—building demand through offerings and customers.&amp;nbsp; Within most markets there are several basic approaches to
+    building demand, as shown in the following table:
+&lt;/p>
+&lt;p>
+    &lt;img height=&quot;269&quot; alt=&quot;&quot; src=&quot;./../../practice.bus.dev_ent_overview.extend-ibm_int/workproducts/resources/marketing_product_service_strategy01.JPG&quot; width=&quot;583&quot; />
+&lt;/p>
+&lt;p>
+    In some cases, it may also be appropriate to innovate new value delivery systems and/or enter new markets.
+&lt;/p>
+&lt;p>
+    In any case, if management can successfully bring new offerings to market and persuade non-customers to become
+    customers for either new or existing offerings, then they have addressed the core issues at the product and service
+    level.&amp;nbsp; Strategies for individual products and services must be coordinated with and subordinated to the overall
+    company strategy. Management must create, distribute, price and promote their offerings within the context of the
+    larger strategy.
+&lt;/p>
+&lt;p>
+    Top level managers often delegate many of the product and service marketing strategy decisions, but they should be
+    careful to recognize the potential long-term significance of these decisions for the entire company. Careful overview
+    and monitoring will ensure that assets are allocated appropriately and that strategic alignment is maintained.
+&lt;/p>
+&lt;p>
+    Product and service marketing strategy involves decisions regarding offering definition, target audiences, promotional
+    messages and other critical issues. Vast amounts of information are necessary—from inside and outside the company—to
+    make customer-pleasing, profitable decisions. Management should ensure that the resources are available to optimize the
+    decision-making process and harness relevant information and establish clear direction for those responsible for plan
+    execution.
+&lt;/p>
+&lt;p>
+    A distinction must be made between strategy and tactics.&amp;nbsp; The purpose of strategy is to decide upon a future
+    state. The purpose of tactics is to define the steps to get there and monitor results. At times the strategic decisions
+    will seem to blur into tactics. Nevertheless, management should maintain the distinction. Slipping into a purely
+    tactical approach can cause decision-makers to lose sight of the potential of an offering to shape a market and/or its
+    role within the larger strategy of the company. This being said, tactics will play a critical role in the ultimate
+    outcome. Management must not lose sight of the importance of tactical decisions regarding actual product, price, place
+    and promotion decisions.
+&lt;/p>
+&lt;p>
+    Strategy is the first concern for product/service-level decision-makers, just as it is for company board members.&amp;nbsp;
+    Managers responsible for the product or service must determine what they want for a future state. Once that is
+    determined, they can consider tactical actions that will help them achieve their objectives, while remaining aligned
+    with the overall company mission. At this point, they begin to deploy assets—people and money—to execute on the
+    elements of the marketing mix (product, price, place, and promotion).
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-a_FWLxZbdAi2I6jkDPAZ6Q" name="strategic_market_position,_JZ3XIiNwEeeOsZrR_SxHmg" guid="-a_FWLxZbdAi2I6jkDPAZ6Q">
+    <keyConsiderations>&lt;p>
+    Strategic Positions should be driven by targeting customer needs and wants and then viewed against competition in terms
+    of offerings and access.
+&lt;/p>
+&lt;p>
+    Ensure that the strategic position provides an adequate statement of where the enterprise stands relative to the
+    marketplace, competition, and best practice that will be acceptable to senior management.&amp;nbsp; Check that appropriate
+    managers and specialists have been involved in its formulation.&amp;nbsp; If there are gaps in the coverage, understand
+    why, communicate to client and determine if gaps are important.&amp;nbsp; Gaps may lead to additional scope of work.
+&lt;/p>
+&lt;p>
+    Senior management must agree with the positioning as a basis for more detailed analysis and definition when later
+    developing capability models.
+&lt;/p>
+&lt;p>
+    Senior Management should review all pertinent positions and decide which ones they want to investigate further within
+    the scope of the strategy engagement.&amp;nbsp; Also they should review any issues raised and decide how they want to
+    address them.&amp;nbsp; The resolution of these issues may be critical to the strategy; others may have an impact on the
+    outcome of the assignment.&amp;nbsp; Other issues may have no impact on the strategy but management may wish to address
+    them outside the scope of the engagement.
+&lt;/p>
+&lt;p>
+    Rely on senior industry, functional and technical specialists for competitive and market sector information.&amp;nbsp;
+    Because of the executive interaction, it requires this experience for credibility.&amp;nbsp; Often they will not be basing
+    their findings on detailed analysis, but on judgement and experience applied to sparse information obtained from
+    research, a small number of executive interviews and/or workshops.&amp;nbsp; The use of internal specialists at this stage
+    will help build their support and commitment to the strategy.
+&lt;/p>
+&lt;p>
+    It is particularly important to gain confidence of management at this early stage in a strategy engagement, and to seek
+    their views on how best to proceed, offering some alternatives.&amp;nbsp; The final strategy will be theirs to implement,
+    and, as such, their involvement and commitment to the process and the outcome is essential.&amp;nbsp; Special care must be
+    given with individuals who feel threatened in any way by the engagement, particularly business unit managers as they
+    will be more heavily involved in capability definition and requirements.
+&lt;/p>
+&lt;p>
+    Only produce the briefest documents as summaries of the key findings.
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>
+    The analysis of the company's competitive space in the industry is usually along three dimensions: products/services
+    (offerings), customers and access. The customer view is driven from customer needs and wants analysis (from CVM). Other
+    analytics such as Advantage Curves can, and should when possible, be used to analyze an offering from a customer need
+    and cost/margin perspective in relation to competitor offerings.
+&lt;/p>
+&lt;p>
+    Positioning is selecting the segments to serve and determining a unique mix of value that the firm intends to deliver
+    which will differentiate it from its competitors.
+&lt;/p>
+&lt;p>
+    Positioning involves making a selection at two levels:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Segments to participate in.
+    &lt;/li>
+    &lt;li>
+        Selecting the value proposition that will differentiate the firm from its competitors.
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    A clearly defined position creates competitive advantage by:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Enabling the firm to focus its capabilities and resources to serve its segments better.
+    &lt;/li>
+    &lt;li>
+        Providing a clear &quot;image,&quot; i.e. &quot;what the company stands for,&quot; to the customers.
+    &lt;/li>
+    &lt;li>
+        Providing clear direction to the management and employees in decision making as well as day to day actions.
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    Other techniques such as the BCG Growth/Market Share Matrix can also be utilized.
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-_-dfAtVwuFzDyG7vVRpWJQ" name="strategic_technology_direction,_JZ3-MCNwEeeOsZrR_SxHmg" guid="-_-dfAtVwuFzDyG7vVRpWJQ">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>This artifact is a high-level description of the strategic vision, goals and objectives an enterprise&#xD;
+    intends to achieve with its Information Technology capabilities, how its current IT capabilities align with and support&#xD;
+    the business goals and objectives, the characteristics and capabilities of the future technology environment that it&#xD;
+    needs to deploy to achieve those goals and objectives and the technology transition initiatives that are&#xD;
+    required.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-qvnu3atSibnVd6X9FHvNpQ" name="business_design_consultant,_JZ7olyNwEeeOsZrR_SxHmg" guid="-qvnu3atSibnVd6X9FHvNpQ">
+    <refinedDescription>&lt;p>
+    This role&amp;nbsp;documents current, and design future, operational scenarios (processes, models, rules, use cases,
+    policies, plans and solutions). They work with the client and other consulting specialties to ensure proper translation
+    of business requirements into a set of structured business process, knowledge, technology, and organization
+    specifications that satisfy the client’s strategic and operational objectives.
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-B7XdBCA6RgGmruenlDB-Fg" name="strategy_consultant,_JZ7olSNwEeeOsZrR_SxHmg" guid="-B7XdBCA6RgGmruenlDB-Fg">
+    <refinedDescription>This role&amp;nbsp;uses in-depth consulting skills and business knowledge aligned to business objectives, processes,
+measurements and tools to analyse their clients business issues, formulate hypotheses and test conclusions to determine
+appropriate solutions.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-G1lWPioD5PZEHGhPn1-q_g" name="business_roles_locations,_JZ7BiCNwEeeOsZrR_SxHmg" guid="-G1lWPioD5PZEHGhPn1-q_g">
+    <keyConsiderations>&lt;p>
+    Although logical roles and organizational positions should be considered as different, it is inevitable that there will
+    be cases where the two are identical.
+&lt;/p>
+&lt;p>
+    If the Business Structure work product has been produced, the &quot;Logical Locations&quot; identified will provide a starter
+    list of locations and may suggest roles.
+&lt;/p>
+&lt;p>
+    Roles, job titles, and organizational positions all may exist in many-to-many relationships to each other. Roles can be
+    even more granular, such as &quot;opportunity noticer&quot; or &quot;call recorder&quot; - be aware of going to too low a level of detail
+    at this stage. You will probably end up with between 10 - 40 roles depending on the scope of the engagement and the
+    complexity of the enterprise.
+&lt;/p>&lt;p/>&lt;p>
+    Physical locations correspond very closely to the ‘location’ concept in the IBM Application Description Standard (ADS)
+    for IT systems.
+&lt;/p>
+&lt;p>
+    Although this work product defines logical locations, these will usually reflect some aspects of the organizational
+    structure and the physical locations.
+&lt;/p>
+&lt;p>
+    Various levels of validation are possible:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        walkthrough of the business processes
+    &lt;/li>
+    &lt;li>
+        walkthrough of the various organization charts
+    &lt;/li>
+    &lt;li>
+        review and verification with client sponsor and executives
+    &lt;/li>
+&lt;/ul></keyConsiderations>
+    <refinedDescription>&lt;p>
+    Business roles are logical, categories of jobs that perform the business activities of the enterprise, (e.g.
+    Underwriter, Claims Assessor, Regulator, Loan Recipient, Sales Person). As such, they combine business activities into
+    a recognizable relationship with the enterprise. Although these roles will very often appear to be the same as
+    positions in the organizational structure, this is not the case and organizational positions will usually perform
+    several business roles. Business Roles are strongly related to the functions and activities of the enterprise and are
+    defined by the primary function/activity that they perform. So, for example, the &quot;Claims Assessor&quot; role is defined by
+    the activity of assessing claims, even though individuals who perform that activity may perform other activities as
+    well.
+&lt;/p>
+&lt;p>
+    Business locations identify both the physical and logical places, or sites, where the activities of the business are
+    carried out. The physical locations are simply the geographical places where the business has a presence; the logical
+    locations are classifications, or categories, of these physical sites, based on the types of business activities that
+    are performed at them. Examples of logical locations are Head Office, Satellite Branch, Warehouse, Claims Unit,
+    Document Reception Center, etc.
+&lt;/p>
+&lt;p>
+    Having identified the Roles and Locations, the relationship between these and Business Activities is documented in the
+    following matrices: Roles Vs Locations, Roles vs Activities, Locations vs Activities.
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wb8QxhLg0q1GYnSDf_CqOw" name="current_org_description,_JZ7okSNwEeeOsZrR_SxHmg" guid="-wb8QxhLg0q1GYnSDf_CqOw">
+    <keyConsiderations>&lt;p>
+    Focus only on those elements within the scope of the project, and where the information gathering adds value to the
+    project for concurrent or subsequent efforts.
+&lt;/p>&lt;p/>&lt;p>
+    This step is needed only at project start-up.&amp;nbsp; While the consultant's knowledge about the organization will surely
+    continue to grow as other work products are completed, this particular work product is unlikely to undergo another
+    iteration later in the project.
+&lt;/p>
+&lt;p>
+    If the engagement also includes assessment of the current organization, this work product can be completed at a more
+    cursory level.&amp;nbsp; The consultant should learn enough from the current organization description to be able to agree
+    with the client on what is to be included in the assessment and to set up the assessment activities and schedule.
+&lt;/p>
+&lt;p>
+    Alternatively, if the engagement does not include an assessment, the consultant should aim for a thorough description,
+    which remains factual and does not extend into evaluative judgments.
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>
+    This work product contains information on the elements of an organization structure, behaviors and enablers for the
+    in-scope organizational units (e.g., corporate organization, strategic business unit (SBU), functions, teams,
+    individuals).
+&lt;/p>&lt;p/>&lt;p>
+    This description is then validated by and agreed upon with the client as the basis for the remaining organization
+    design work.
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-7FtS7zPd4o8HBZHdKMH9ng" name="business_design_consultant,_JZ4lRCNwEeeOsZrR_SxHmg" guid="-7FtS7zPd4o8HBZHdKMH9ng">
+    <refinedDescription>&lt;p>
+    This role&amp;nbsp;documents current, and design future, operational scenarios (processes, models, rules, use cases,
+    policies, plans and solutions). They work with the client and other consulting specialties to ensure proper translation
+    of business requirements into a set of structured business process, knowledge, technology, and organization
+    specifications that satisfy the client’s strategic and operational objectives.
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-XNFojQRtawWVtDZA5OxkYw" name="strategy_consultant,_JZ5MUiNwEeeOsZrR_SxHmg" guid="-XNFojQRtawWVtDZA5OxkYw">
+    <refinedDescription>This role&amp;nbsp;uses in-depth consulting skills and business knowledge aligned to business objectives, processes,
+measurements and tools to analyse their clients business issues, formulate hypotheses and test conclusions to determine
+appropriate solutions.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-EROJMoGdHPWI_M11I_j3Kw" name="competitor_analysis,_JZ3-NyNwEeeOsZrR_SxHmg" guid="-EROJMoGdHPWI_M11I_j3Kw">
+    <keyConsiderations>&lt;p>
+    By reviewing industry trends, it is sometimes possible to identify new threats that the client may not have had in
+    their radar. Indeed, in some cases the client may have little information on competitors e.g. when attempting to enter
+    a new market or to develop a new capability/product/service.
+&lt;/p>
+&lt;p>
+    Examine the industry trend of another branch in which parallel situations regarding your client have occurred or will
+    take place.
+&lt;/p>
+&lt;p>
+    Be creative and investigate whether it is better to join a competitor than beating him. This may look rather odd or not
+    a part of the engagement but will bring much better discussion into the steering committee or project group. It also
+    shows you’re an expert in the business your client is in.
+&lt;/p>
+&lt;p>
+    It is impractical to research and analyze more than 6 competitors.&amp;nbsp; Narrowing this number done to 3 or 4 focuses
+    the research even more and allows an even more in depth review and analysis.&amp;nbsp; In some cases, however, it may be
+    necessary to look at many different competitors because they each have unique capabilities or products which the client
+    may want to understand or benchmark against.
+&lt;/p>
+&lt;p>
+    Ensure that the client is engaged through every point of the analysis.&amp;nbsp; The client should participate in the
+    selection of competitors and even more so in the selection of areas of focus for the analysis.&amp;nbsp; Many companies are
+    often willing to provide dedicated resources to assist in researching and synthesis.&amp;nbsp; This provides an opportunity
+    for some skills transfer.&amp;nbsp;
+&lt;/p>
+&lt;p>
+    Competitor analysis may sometimes be a tough sell.&amp;nbsp; A few clients may believe they have a good handle on their
+    competitors. Others may already have a dedicated market intelligence team.&amp;nbsp; In such cases, practitioners can still
+    bring value to the table by presenting new frameworks for analysis, graphical representations and maybe even new
+    information not known to the client.&amp;nbsp; The value also comes in the identification of strategic initiatives to
+    address threats and achieve competitive advantage.
+&lt;/p>
+&lt;p>
+    Do not rely too much on press releases or other publicly available data.&amp;nbsp; One Competitive Intelligence
+    professional notes that only about one third of press releases are reliable.&amp;nbsp; By using industry sources or reports
+    by research firms like Gartner or Forrester, practitioners can often get a clearer view of a competitor’s true
+    capabilities.
+&lt;/p>
+&lt;p>
+    Ethical issues. Be careful that the information you have gathered during other engagements will not mix with a
+    competitor analysis engagement. Your client expects confidentiality but will ask you everything about his competitor!
+&lt;/p>
+&lt;p>
+    First mover. For more than 80 % of the E-business companies a company being first on the market was of first interest.
+    Nowadays (June 2001) a competitive analysis helps venture capitalists, board members and all other interest groups to
+    make solid decisions.
+&lt;/p>
+&lt;p>
+    If your client claims a competitor analysis is too much, to expensive you should consider the appetizer technique. In
+    this it means you can offer the opportunity of conducting a benchmark by using scanning techniques. By using a small
+    questionnaire (let’s say 10 important, meaningful questions) the outcome could be that devastating the client wants to
+    know more. Examples could be the implementation of a customer friendly portal and the connection with the back office
+    or the use of CRM and organizational impact in the insurance market.
+&lt;/p>
+&lt;p>
+    Gather information about branches that have gone trough similar changes like your client branch does. Try to find out
+    what mistakes competitors have made, learn from that, and translate it to your customers’ branch.
+&lt;/p></keyConsiderations>
+    <refinedDescription>The analysis encompasses understanding the market positioning, internal capabilities and strategic relationships or
+alliances of specific competitors or substitutors.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-y8oGIwGX8FmUiphx0Bix-Q" name="supplier_analysis,_JZ4lRyNwEeeOsZrR_SxHmg" guid="-y8oGIwGX8FmUiphx0Bix-Q">
+    <refinedDescription>The focus is on identifying all the suppliers of a company, indicating all the suppliers for different raw materials,&#xD;
+parts, components, services, etc. It attempts to provide the enterprise with a profile of their suppliers, indicating&#xD;
+opportunities for consolidation and/or highlighting where a lack of suppliers increases the enterprise's risk</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8X-0D4_1_A-RIn6lHiy4_Q" name="market_prod_service_strat,_JZ3-NiNwEeeOsZrR_SxHmg" guid="-8X-0D4_1_A-RIn6lHiy4_Q">
+    <keyConsiderations>&lt;p>
+    Beware of diversifying without exploiting the existing market for existing products and services. This can result in
+    spreading resources too thinly.
+&lt;/p>
+&lt;p>
+    A product/service marketing strategy is a long-term decision, based on sound knowledge of internal and external
+    factors. It may require extensive primary and secondary research. It will require senior management buy-in and
+    commitment and sufficient allocated resources. Measurement and control needs to be considered to determine the success
+    of the product/service strategy.
+&lt;/p>
+&lt;p>
+    Help the client to formulate the product/marketing strategy from an external viewpoint. Sellers often see themselves as
+    selling an offering; customers see themselves buying value or a solution to a problem.&amp;nbsp; The following graphic
+    helps to make the distinction:
+&lt;/p>
+&lt;p>
+    &lt;img height=&quot;325&quot; alt=&quot;&quot; src=&quot;./../../practice.bus.dev_ent_overview.extend-ibm_int/workproducts/resources/marketing_product_service_strategy1.JPG&quot; width=&quot;600&quot; />&lt;br />
+&lt;/p>
+&lt;p>
+    This work product depends on a variety of inputs which may/may not have been completed. It is important that questions
+    are asked, and answers obtained to clarify the company’s overall business strategy.&amp;nbsp; Then, consistency of the
+    product/service marketing strategy before committing the company’s resources to tactical actions.&amp;nbsp;
+&lt;/p>
+&lt;p>
+    The product/service marketing strategy should be driven by the company’s mission and objectives and balanced against
+    constraints, such as internal resources (organization, budget, capability), in light of what is happening in the
+    marketplace (customer needs, competitors, environmental factors).
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>
+    Strategic decisions regarding the marketing of individual products and services must be made, just as strategic
+    decisions are made for the larger company. The difference is that the scope is more restricted; it is a subset of the
+    larger company-wide effort.&amp;nbsp; The product/service marketing strategy is typically focused on two major
+    issues—building demand through offerings and customers.&amp;nbsp; Within most markets there are several basic approaches to
+    building demand, as shown in the following table:
+&lt;/p>
+&lt;p>
+    &lt;img height=&quot;269&quot; alt=&quot;&quot; src=&quot;./../../practice.bus.dev_ent_overview.extend-ibm_int/workproducts/resources/marketing_product_service_strategy01.JPG&quot; width=&quot;583&quot; />
+&lt;/p>
+&lt;p>
+    In some cases, it may also be appropriate to innovate new value delivery systems and/or enter new markets.
+&lt;/p>
+&lt;p>
+    In any case, if management can successfully bring new offerings to market and persuade non-customers to become
+    customers for either new or existing offerings, then they have addressed the core issues at the product and service
+    level.&amp;nbsp; Strategies for individual products and services must be coordinated with and subordinated to the overall
+    company strategy. Management must create, distribute, price and promote their offerings within the context of the
+    larger strategy.
+&lt;/p>
+&lt;p>
+    Top level managers often delegate many of the product and service marketing strategy decisions, but they should be
+    careful to recognize the potential long-term significance of these decisions for the entire company. Careful overview
+    and monitoring will ensure that assets are allocated appropriately and that strategic alignment is maintained.
+&lt;/p>
+&lt;p>
+    Product and service marketing strategy involves decisions regarding offering definition, target audiences, promotional
+    messages and other critical issues. Vast amounts of information are necessary—from inside and outside the company—to
+    make customer-pleasing, profitable decisions. Management should ensure that the resources are available to optimize the
+    decision-making process and harness relevant information and establish clear direction for those responsible for plan
+    execution.
+&lt;/p>
+&lt;p>
+    A distinction must be made between strategy and tactics.&amp;nbsp; The purpose of strategy is to decide upon a future
+    state. The purpose of tactics is to define the steps to get there and monitor results. At times the strategic decisions
+    will seem to blur into tactics. Nevertheless, management should maintain the distinction. Slipping into a purely
+    tactical approach can cause decision-makers to lose sight of the potential of an offering to shape a market and/or its
+    role within the larger strategy of the company. This being said, tactics will play a critical role in the ultimate
+    outcome. Management must not lose sight of the importance of tactical decisions regarding actual product, price, place
+    and promotion decisions.
+&lt;/p>
+&lt;p>
+    Strategy is the first concern for product/service-level decision-makers, just as it is for company board members.&amp;nbsp;
+    Managers responsible for the product or service must determine what they want for a future state. Once that is
+    determined, they can consider tactical actions that will help them achieve their objectives, while remaining aligned
+    with the overall company mission. At this point, they begin to deploy assets—people and money—to execute on the
+    elements of the marketing mix (product, price, place, and promotion).
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-JOj0P-_hcRIYHw5izmg-KQ" name="industry_env_analysis,_JZ5MUCNwEeeOsZrR_SxHmg" guid="-JOj0P-_hcRIYHw5izmg-KQ">
+    <keyConsiderations>&lt;p>
+    &lt;strong>Management involvement and commitment:&lt;/strong>
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        The Client should have active involvement so they can develop understanding of the strategic positions that will be
+        driven from this analysis.
+    &lt;/li>
+    &lt;li>
+        It is particularly important to gain confidence of management at this early stage in a strategy engagement, and to
+        seek their views on how best to proceed, offering some alternatives.&amp;nbsp; The final strategy will be theirs to
+        implement, and, as such, their involvement and commitment to the process and the outcome is essential.&amp;nbsp;
+    &lt;/li>
+    &lt;li>
+        Senior Management should review all opportunities and threats and decide which ones they want to investigate
+        further within the scope of the strategy engagement.&amp;nbsp; Also they should review any issues raised and decide how
+        they want to address them.
+    &lt;/li>
+    &lt;li>
+        Special care must be given to individuals who may feel threatened in any way by the engagement, particularly
+        business unit managers.
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    &lt;strong>Credibility of the analysis:&lt;/strong>
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        For analysis credibility purposes, rely on senior industry, functional and technical specialists for competitive
+        and market sector information. The use of Client’s internal domain specialists at this stage will help build the
+        support and commitment to the strategy within the client organization.
+    &lt;/li>
+    &lt;li>
+        Ensure segmentation and other data is current and not obsolete. It is vital that when market data is analyzed and
+        used for Industry Environment Analysis, that it is current and reflects the current business environment.
+    &lt;/li>
+    &lt;li>
+        Strategic analysis of industry sector and competitive factors is essential for drawing pertinent business based
+        conclusions from internally and externally sourced information and experience.
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    &lt;strong>General advice:&lt;/strong>
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Ask for documented strategy information. Look for vision statement, mission statement, future business goals, list
+        of key business drivers, management system (organization, opportunity identification, decision making, funding),
+        key target market segments, list of target wants and needs, key value propositions, list of strategic market
+        positions, critical success factors, distinctive competencies, critical capabilities.
+    &lt;/li>
+    &lt;li>
+        Ask the client for their business intelligence information on market research, segmentation, and company
+        data.&amp;nbsp;
+    &lt;/li>
+    &lt;li>
+        Be prepared to deal with complex organization structures.&amp;nbsp; For example, if a global company, it may be
+        necessary to understand corporate objectives and identify similarities and differences across subsidiaries.&amp;nbsp;
+        This may require some or all subsidiaries to be assessed individually.
+    &lt;/li>
+    &lt;li>
+        Only produce the briefest documents as summaries of the key findings.
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    See additional guidance in Estimating Considerations.
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    This workproduct&amp;nbsp;seeks to understand the players in the business environment, their interactions, the creation and&#xD;
+    distribution of value. Industry forces, competitive positions, and external influences and trends, provide additional&#xD;
+    information to identify possible threats, opportunities and competitive responses.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img height=&quot;368&quot; alt=&quot;&quot; src=&quot;./../../practice.bus.dev_ent_overview.extend-ibm_int/workproducts/resources/inenvdesc1.JPG&quot; width=&quot;534&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Industry Environment analysis can be performed with different objectives, addressing specific questions from the&#xD;
+    organization's &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../core.legacy.common.base-ibm_lic/guidances/termdefinitions/business_entity_AD752CC1.html&quot;&#xD;
+    guid=&quot;_eloakEouEd6hPZWzFSGlXQ&quot;>business entity&lt;/a> perspective, relevant to the future business strategy. The four main&#xD;
+    objectives considered here are;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Scope and participation&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                What is the current business scope and focus (&quot;why are we in this business and whom do we serve?&quot;), and&#xD;
+                what is the level of participation in the industry (in terms of; size, reach, position, and image).&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                What are the issues to be addressed and what is the desired business scope, focus, and participation in the&#xD;
+                industry (&quot;what do we want to achieve&quot;).&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Value analysis&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                Which industry players surround the client’s business entity (e.g. value net analysis), what is their place&#xD;
+                in the 'value creation network' (e.g. value system analysis), and which interactions exist between the&#xD;
+                players.&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Where is value created and captured (e.g. value chain analysis).&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Industry forces analysis&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                What are the industry structure and forces relevant to the client business entity (e.g. Porter’s five&#xD;
+                forces analysis).&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                What external forces are acting upon the industry (e.g. social, technological, economic, environmental and&#xD;
+                political developments/influences/trends).&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Attractiveness Assessment&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                Which value drivers have what effect on the value system, and what does it mean for the positioning of the&#xD;
+                players.&amp;nbsp;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                What ‘playing field’ ‘to-be’ scenarios can be distinguished, what are the attractive positions, and what&#xD;
+                roles can be played.&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                What competitive forces exist, what are they based on, what competitive response opportunities can be&#xD;
+                defined (&quot;can we change the rules of the game&quot;).&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-7Do3Em84vTcvocJYlsZVaw" name="customer_analysis,_JZ4lQSNwEeeOsZrR_SxHmg" guid="-7Do3Em84vTcvocJYlsZVaw">
+    <refinedDescription>&lt;p>&#xD;
+    This artifact typically identifies characteristics such as:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        buying behaviors and preferences&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        income levels&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        profit realization or potential&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        demographcs&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Depending on the size of the customer base and how they relate to various products and services, this analysis can&#xD;
+    define customer segments with similar characteristics.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-o7euhij1bZWOky46s_S3jA" name="business_design_consultant,_JZ6aciNwEeeOsZrR_SxHmg" guid="-o7euhij1bZWOky46s_S3jA">
+    <refinedDescription>&lt;p>
+    This role&amp;nbsp;documents current, and design future, operational scenarios (processes, models, rules, use cases,
+    policies, plans and solutions). They work with the client and other consulting specialties to ensure proper translation
+    of business requirements into a set of structured business process, knowledge, technology, and organization
+    specifications that satisfy the client’s strategic and operational objectives.
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-o0yYzaDIDKgLfYeBZRK5dA" name="strategy_consultant,_JZ6adiNwEeeOsZrR_SxHmg" guid="-o0yYzaDIDKgLfYeBZRK5dA">
+    <refinedDescription>This role&amp;nbsp;uses in-depth consulting skills and business knowledge aligned to business objectives, processes,
+measurements and tools to analyse their clients business issues, formulate hypotheses and test conclusions to determine
+appropriate solutions.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-f9NZhqnuAh73JaMXAu5a3w" name="strategic_market_position,_JZ6adSNwEeeOsZrR_SxHmg" guid="-f9NZhqnuAh73JaMXAu5a3w">
+    <keyConsiderations>&lt;p>
+    Strategic Positions should be driven by targeting customer needs and wants and then viewed against competition in terms
+    of offerings and access.
+&lt;/p>
+&lt;p>
+    Ensure that the strategic position provides an adequate statement of where the enterprise stands relative to the
+    marketplace, competition, and best practice that will be acceptable to senior management.&amp;nbsp; Check that appropriate
+    managers and specialists have been involved in its formulation.&amp;nbsp; If there are gaps in the coverage, understand
+    why, communicate to client and determine if gaps are important.&amp;nbsp; Gaps may lead to additional scope of work.
+&lt;/p>
+&lt;p>
+    Senior management must agree with the positioning as a basis for more detailed analysis and definition when later
+    developing capability models.
+&lt;/p>
+&lt;p>
+    Senior Management should review all pertinent positions and decide which ones they want to investigate further within
+    the scope of the strategy engagement.&amp;nbsp; Also they should review any issues raised and decide how they want to
+    address them.&amp;nbsp; The resolution of these issues may be critical to the strategy; others may have an impact on the
+    outcome of the assignment.&amp;nbsp; Other issues may have no impact on the strategy but management may wish to address
+    them outside the scope of the engagement.
+&lt;/p>
+&lt;p>
+    Rely on senior industry, functional and technical specialists for competitive and market sector information.&amp;nbsp;
+    Because of the executive interaction, it requires this experience for credibility.&amp;nbsp; Often they will not be basing
+    their findings on detailed analysis, but on judgement and experience applied to sparse information obtained from
+    research, a small number of executive interviews and/or workshops.&amp;nbsp; The use of internal specialists at this stage
+    will help build their support and commitment to the strategy.
+&lt;/p>
+&lt;p>
+    It is particularly important to gain confidence of management at this early stage in a strategy engagement, and to seek
+    their views on how best to proceed, offering some alternatives.&amp;nbsp; The final strategy will be theirs to implement,
+    and, as such, their involvement and commitment to the process and the outcome is essential.&amp;nbsp; Special care must be
+    given with individuals who feel threatened in any way by the engagement, particularly business unit managers as they
+    will be more heavily involved in capability definition and requirements.
+&lt;/p>
+&lt;p>
+    Only produce the briefest documents as summaries of the key findings.
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>
+    The analysis of the company's competitive space in the industry is usually along three dimensions: products/services
+    (offerings), customers and access. The customer view is driven from customer needs and wants analysis (from CVM). Other
+    analytics such as Advantage Curves can, and should when possible, be used to analyze an offering from a customer need
+    and cost/margin perspective in relation to competitor offerings.
+&lt;/p>
+&lt;p>
+    Positioning is selecting the segments to serve and determining a unique mix of value that the firm intends to deliver
+    which will differentiate it from its competitors.
+&lt;/p>
+&lt;p>
+    Positioning involves making a selection at two levels:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Segments to participate in.
+    &lt;/li>
+    &lt;li>
+        Selecting the value proposition that will differentiate the firm from its competitors.
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    A clearly defined position creates competitive advantage by:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Enabling the firm to focus its capabilities and resources to serve its segments better.
+    &lt;/li>
+    &lt;li>
+        Providing a clear &quot;image,&quot; i.e. &quot;what the company stands for,&quot; to the customers.
+    &lt;/li>
+    &lt;li>
+        Providing clear direction to the management and employees in decision making as well as day to day actions.
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    Other techniques such as the BCG Growth/Market Share Matrix can also be utilized.
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mO2D6fL6muDu-w-gNUiWWQ" name="market_prod_service_strat,_JZ6adCNwEeeOsZrR_SxHmg" guid="-mO2D6fL6muDu-w-gNUiWWQ">
+    <keyConsiderations>&lt;p>
+    Beware of diversifying without exploiting the existing market for existing products and services. This can result in
+    spreading resources too thinly.
+&lt;/p>
+&lt;p>
+    A product/service marketing strategy is a long-term decision, based on sound knowledge of internal and external
+    factors. It may require extensive primary and secondary research. It will require senior management buy-in and
+    commitment and sufficient allocated resources. Measurement and control needs to be considered to determine the success
+    of the product/service strategy.
+&lt;/p>
+&lt;p>
+    Help the client to formulate the product/marketing strategy from an external viewpoint. Sellers often see themselves as
+    selling an offering; customers see themselves buying value or a solution to a problem.&amp;nbsp; The following graphic
+    helps to make the distinction:
+&lt;/p>
+&lt;p>
+    &lt;img height=&quot;325&quot; alt=&quot;&quot; src=&quot;./../../practice.bus.dev_ent_overview.extend-ibm_int/workproducts/resources/marketing_product_service_strategy1.JPG&quot; width=&quot;600&quot; />&lt;br />
+&lt;/p>
+&lt;p>
+    This work product depends on a variety of inputs which may/may not have been completed. It is important that questions
+    are asked, and answers obtained to clarify the company’s overall business strategy.&amp;nbsp; Then, consistency of the
+    product/service marketing strategy before committing the company’s resources to tactical actions.&amp;nbsp;
+&lt;/p>
+&lt;p>
+    The product/service marketing strategy should be driven by the company’s mission and objectives and balanced against
+    constraints, such as internal resources (organization, budget, capability), in light of what is happening in the
+    marketplace (customer needs, competitors, environmental factors).
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>
+    Strategic decisions regarding the marketing of individual products and services must be made, just as strategic
+    decisions are made for the larger company. The difference is that the scope is more restricted; it is a subset of the
+    larger company-wide effort.&amp;nbsp; The product/service marketing strategy is typically focused on two major
+    issues—building demand through offerings and customers.&amp;nbsp; Within most markets there are several basic approaches to
+    building demand, as shown in the following table:
+&lt;/p>
+&lt;p>
+    &lt;img height=&quot;269&quot; alt=&quot;&quot; src=&quot;./../../practice.bus.dev_ent_overview.extend-ibm_int/workproducts/resources/marketing_product_service_strategy01.JPG&quot; width=&quot;583&quot; />
+&lt;/p>
+&lt;p>
+    In some cases, it may also be appropriate to innovate new value delivery systems and/or enter new markets.
+&lt;/p>
+&lt;p>
+    In any case, if management can successfully bring new offerings to market and persuade non-customers to become
+    customers for either new or existing offerings, then they have addressed the core issues at the product and service
+    level.&amp;nbsp; Strategies for individual products and services must be coordinated with and subordinated to the overall
+    company strategy. Management must create, distribute, price and promote their offerings within the context of the
+    larger strategy.
+&lt;/p>
+&lt;p>
+    Top level managers often delegate many of the product and service marketing strategy decisions, but they should be
+    careful to recognize the potential long-term significance of these decisions for the entire company. Careful overview
+    and monitoring will ensure that assets are allocated appropriately and that strategic alignment is maintained.
+&lt;/p>
+&lt;p>
+    Product and service marketing strategy involves decisions regarding offering definition, target audiences, promotional
+    messages and other critical issues. Vast amounts of information are necessary—from inside and outside the company—to
+    make customer-pleasing, profitable decisions. Management should ensure that the resources are available to optimize the
+    decision-making process and harness relevant information and establish clear direction for those responsible for plan
+    execution.
+&lt;/p>
+&lt;p>
+    A distinction must be made between strategy and tactics.&amp;nbsp; The purpose of strategy is to decide upon a future
+    state. The purpose of tactics is to define the steps to get there and monitor results. At times the strategic decisions
+    will seem to blur into tactics. Nevertheless, management should maintain the distinction. Slipping into a purely
+    tactical approach can cause decision-makers to lose sight of the potential of an offering to shape a market and/or its
+    role within the larger strategy of the company. This being said, tactics will play a critical role in the ultimate
+    outcome. Management must not lose sight of the importance of tactical decisions regarding actual product, price, place
+    and promotion decisions.
+&lt;/p>
+&lt;p>
+    Strategy is the first concern for product/service-level decision-makers, just as it is for company board members.&amp;nbsp;
+    Managers responsible for the product or service must determine what they want for a future state. Once that is
+    determined, they can consider tactical actions that will help them achieve their objectives, while remaining aligned
+    with the overall company mission. At this point, they begin to deploy assets—people and money—to execute on the
+    elements of the marketing mix (product, price, place, and promotion).
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-5qz9tHs5kfnSr4GsQW3hzg" name="market_channel_strat,_JZ7BgyNwEeeOsZrR_SxHmg" guid="-5qz9tHs5kfnSr4GsQW3hzg">
+    <keyConsiderations>&lt;p>
+    Points to consider in validating that a company has a viable channel strategy are as follows:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Does the channel strategy address the strengths and weaknesses of each channel?
+    &lt;/li>
+    &lt;li>
+        Is there alignment between the channel strategy and the overall objectives expressed for the product lines and
+        brands?
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    Channels are quite complex to evaluate. When evaluating channels, focus on the desirable customer experience and
+    customer wants/needs, rather than the technology to support the value proposition.
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>
+    Customers should grow to be familiar and comfortable with the channel so that friction is removed, to the extent
+    possible, from the buying process. Through channel strategy, the management team either chooses or adjusts paths to
+    market. The Marketing Channel Strategy WPD produces a strategy that helps clients decide how to match customer buying
+    expectations to existing and new channels.
+&lt;/p>
+&lt;p>
+    Channel strategy has long held its position among the four tenets of marketing-product, price, promotion and place.
+    Now, however, channels have come to encompass far more than place alone. Today’s effective distribution channels are
+    sophisticated systems focused on the buyer experience. Each entity in the channel is increasingly dependent upon the
+    others to deliver &lt;i>perceived&lt;/i> value.
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ER6_XAIgYWIae8IMah3h5Q" name="marketing_pricing_strategy,_JZ7BhCNwEeeOsZrR_SxHmg" guid="-ER6_XAIgYWIae8IMah3h5Q">
+    <keyConsiderations>&lt;p>
+    Pricing strategy typically involves extensive analysis of internal and external factors. Furthermore, it often involves
+    the blending of multiple approaches. The client team will likely have an established pricing strategy in place if it is
+    not in the process of launching a new product or a new venture. Review the existing policies and research documents to
+    facilitate planning for the next pricing decision.
+&lt;/p>
+&lt;p>
+    Encourage management to test and validate their thinking with market research.&lt;br />
+&lt;/p></keyConsiderations>
+    <refinedDescription>This work product description is intended to provide marketing decision-makers with a structure for making optimal pricing
+decisions for products and services. In recent years this has become more complex due to: 
+&lt;ul>
+    &lt;li>
+        The broad availability of information, including pricing information.
+    &lt;/li>
+    &lt;li>
+        The rise in services, which are more difficult to price.
+    &lt;/li>
+    &lt;li>
+        Accelerating technologies, which make the pricing of frequent complex transactions feasible.
+    &lt;/li>
+    &lt;li>
+        The micro-segmentation of markets, which leads to such pricing nuances as premium pricing, seasonal pricing, daily
+        pricing and other niched pricing tactics.
+    &lt;/li>
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-9t0_vSbpO8BZRLLERCpnwg" name="determine_critical_sucess_factors,_JZ5zYyNwEeeOsZrR_SxHmg" guid="-9t0_vSbpO8BZRLLERCpnwg">
+    <refinedDescription>Document&amp;nbsp;critical success factors.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-rDEa9-uH87Z9ZvxbxFZCKA" name="business_design_consultant,_JZ6acCNwEeeOsZrR_SxHmg" guid="-rDEa9-uH87Z9ZvxbxFZCKA">
+    <refinedDescription>&lt;p>
+    This role&amp;nbsp;documents current, and design future, operational scenarios (processes, models, rules, use cases,
+    policies, plans and solutions). They work with the client and other consulting specialties to ensure proper translation
+    of business requirements into a set of structured business process, knowledge, technology, and organization
+    specifications that satisfy the client’s strategic and operational objectives.
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-TI4CblkyVUS37VUDpsR8uw" name="strategy_consultant,_JZ5zZCNwEeeOsZrR_SxHmg" guid="-TI4CblkyVUS37VUDpsR8uw">
+    <refinedDescription>This role&amp;nbsp;uses in-depth consulting skills and business knowledge aligned to business objectives, processes,
+measurements and tools to analyse their clients business issues, formulate hypotheses and test conclusions to determine
+appropriate solutions.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-n01Id1npfJIUFslqdzq0bA" name="conditions_satisfaction,_JZ5zZiNwEeeOsZrR_SxHmg" guid="-n01Id1npfJIUFslqdzq0bA">
+    <keyConsiderations>&lt;p>
+    The initial Conditions of Satisfaction should be collected from the&amp;nbsp;sponsor during the up-front sales
+    process.&amp;nbsp; At the beginning of the delivery phase you should check with the sales team to find out what
+    expectations were set during the sales phase.
+&lt;/p>
+&lt;p>
+    Use this list of expectations to revalidate and refine the sponsor's expectations and priorities during the beginning
+    of the delivery phase.&amp;nbsp; This will enable you to capture any changes in their expectations and priorities and
+    ensure that you understand what is important to your sponsor.
+&lt;/p>
+&lt;p>
+    Routine checkpoints with the&amp;nbsp;sponsor during delivery and at the close of the engagement will keep the project team
+    on track to a successful project.
+&lt;/p>
+&lt;p>
+    &lt;strong>Development Approach&lt;/strong>
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Collect/verify sponsor expectations
+    &lt;/li>
+    &lt;li>
+        Establish actions to meet expectations
+    &lt;/li>
+    &lt;li>
+        Periodically review progress agains expectations
+    &lt;/li>
+    &lt;li>
+        Capture sponsor's input regarding expectations
+    &lt;/li>
+&lt;/ul></keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Z-dlKUy4J-flBvAl04J6ZQ" name="measurement_model,_JZ5MVyNwEeeOsZrR_SxHmg" guid="-Z-dlKUy4J-flBvAl04J6ZQ">
+    <keyConsiderations>&lt;p>&#xD;
+    Industry-accepted techniques for building the Measurement Model work product include the Balanced Scorecard approach,&#xD;
+    the Goal-Question-Metric (GQM) approach, and similar modern analytical methods for objectifying organizational&#xD;
+    performance.&amp;nbsp; These techniques are documented in published materials found in References.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    There are several methods for validating a Measurement Model work product:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Peer Review&lt;/strong>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        An independent consultant with expertise in measurements should participate in a review of the developed&#xD;
+        Measurement Model.&amp;nbsp; An independent consultant’s expertise and exposure to various organizations equips him or&#xD;
+        her with the experience and insights necessary to validate this critical work product.&amp;nbsp; In addition, the work&#xD;
+        product should be reviewed by a technical member of the project team and by a member of the target organization.&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        [Release 2 of the Measurements Catalog provides function for specifying organization-specific policies in the&#xD;
+        association between a measurement entity and the organization, resolving a significant problem with reusing&#xD;
+        measurement entities presented by Release 1 of the Measurements Catalog.]&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Measurements Catalog Correlations&lt;/strong>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        Definitions in the proposed Measurement Model should be compared to definitions for existing entities in the&#xD;
+        formally governed publications such as the Global AMS Delivery Measurements Catalog.&amp;nbsp; Measurements that map to&#xD;
+        entities in the catalog should be named precisely as they appear in the catalog.&amp;nbsp; New measurements defined in&#xD;
+        the measurement model should be added to the catalog and associated with the contributing organization.&amp;nbsp;&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul dir=&quot;ltr&quot;>&#xD;
+    &lt;li>&#xD;
+        &lt;div>&#xD;
+            &lt;strong>Measurement Model Success Factors&lt;/strong>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        A well-defined Measurement Model adheres to the following principles, which assist in ensuring its success in&#xD;
+        implementation:&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 2em&quot;>&#xD;
+    &lt;ul>&#xD;
+        &lt;li>&#xD;
+            “Less is more.” Many measurements in a model do not necessarily make a good model.&amp;nbsp; Through the&#xD;
+            prioritization and balancing process of the IBM approach, an optimal minimum number of measurements persist&#xD;
+            into the final model.&amp;nbsp; As a result, those measurements should naturally provide a tight coupling to the&#xD;
+            target organizations identified business goals.&#xD;
+        &lt;/li>&#xD;
+        &lt;li>&#xD;
+            Alignment to the defined organizational behaviors.&amp;nbsp; Measurements that do not line up with the defined&#xD;
+            organizations behaviors will not persist in the final Measurement Model, unless such retention is required by&#xD;
+            specific legal mandates or business policies firmly rooted in the charter (such as a contract) for the&#xD;
+            organization.&#xD;
+        &lt;/li>&#xD;
+    &lt;/ul>&#xD;
+&lt;/div></keyConsiderations>
+    <refinedDescription>The Measurement model describes various attributes about the measurements defined in the model including: &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Computed Metric&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Primitive Metrics&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Calculation&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Frequency of Data Collection&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Reporting Frequency&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Traditional Reporting Process(es)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Traditional Organizational Owner&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The term “measurement” as used in this document reflects the sorts of entities that must be elicited when defining and&#xD;
+    developing the measurement program and system for an organization.&amp;nbsp; Generally, the term “&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../core.legacy.common.extend-ibm_int/guidances/termdefinitions/measurement_597FF052.html&quot;&#xD;
+    guid=&quot;_Y6KAQCEqEd2LAZ9DC4KJlA&quot;>measurement&lt;/a>” can refer to either a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../core.legacy.common.extend-ibm_int/guidances/termdefinitions/computed_metric_7F308BD9.html&quot;&#xD;
+    guid=&quot;_bH3N8CEqEd2LAZ9DC4KJlA&quot;>computed metric&lt;/a>, which involves a calculation among primitive metrics, or a &lt;a&#xD;
+    class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../core.legacy.common.extend-ibm_int/guidances/termdefinitions/primitive_metric_38332A.html&quot;&#xD;
+    guid=&quot;_dDGLkCEqEd2LAZ9DC4KJlA&quot;>primitive metric&lt;/a>&amp;nbsp;that reflects a directly observable or countable event or data&#xD;
+    point.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-BjtAyEkXSmJdVEjggs6FpA" name="financial_benchmarks,_JZ5zYiNwEeeOsZrR_SxHmg" guid="-BjtAyEkXSmJdVEjggs6FpA">
+    <keyConsiderations>The &lt;strong>Financial Benchmarks&lt;/strong> work product should be produced in the proposal phase to the extent
+possible.&amp;nbsp; Doing so will enable you to use it in working with the client to establish base-line assumptions.&amp;nbsp; It
+will also provide valuable input to creating the Financial Assessment and Financial Work Plan &amp;amp; Model work products.</keyConsiderations>
+    <refinedDescription>&lt;p>
+    The scope of the &lt;b>Financial Benchmarks&lt;/b> work product addresses:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Calculating generic, as well as industry-specific business metrics (e. g., ratios) for each relevant line of
+        business;
+    &lt;/li>
+    &lt;li>
+        Assessing historical trends and projections for key business metrics;
+    &lt;/li>
+    &lt;li>
+        Identifying areas of concern indicated by current or projected metrics;
+    &lt;/li>
+    &lt;li>
+        Formulation of preliminary hypotheses concerning problems and solutions; and
+    &lt;/li>
+    &lt;li>
+        Documenting data sources and assumptions used in calculating the key business metrics and trends needed for
+        competitor/industry comparisons.
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    The &lt;b>Financial Benchmarks&lt;/b> process is undertaken during the early stages of the project (ideally, during the
+    proposal phase.) The projected impact of proposed initiatives on business metrics and trends identified at this stage
+    will typically be reflected in the &lt;b>Business Case&lt;/b> work product.
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-g7qBRxGlFCmSpaql1g_0nw" name="financial_assessment,_JZ5zaCNwEeeOsZrR_SxHmg" guid="-g7qBRxGlFCmSpaql1g_0nw">
+    <keyConsiderations>&lt;p>
+    The &lt;strong>Financial Assessment&lt;/strong> work product should be produced in the proposal phase to the extent
+    possible.&amp;nbsp; Doing so will enable you to use it in working with the client to establish base-line assumptions.&amp;nbsp;
+    It will also provide valuable input to creating the Financial Benchmarks and Financial Work Plan &amp;amp; Model work
+    products.
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>
+    The scope of the &lt;b>Financial Assessment&lt;/b> addresses:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Calculating generic, as well as industry-specific business metrics (e. g., ratios) for each relevant line of
+        business;
+    &lt;/li>
+    &lt;li>
+        Assessing historical trends and projections for key business metrics,
+    &lt;/li>
+    &lt;li>
+        Identifying areas of concern indicated by current or projected metrics,
+    &lt;/li>
+    &lt;li>
+        Formulating preliminary hypotheses concerning problems and solutions, and
+    &lt;/li>
+    &lt;li>
+        Documenting data sources and assumptions used in calculating the key business metrics, trends.
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    The &lt;b>Financial Assessment&lt;/b> process is undertaken during the early stages of the Transformation project (ideally,
+    during the proposal phase.) The projected impact of proposed transformation initiatives on business metrics identified
+    at this stage should be explicitly reflected in the Business Case work product.
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>
